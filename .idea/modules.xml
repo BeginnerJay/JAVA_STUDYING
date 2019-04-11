@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Doit/Doit.iml" filepath="$PROJECT_DIR$/Doit/Doit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JAVA_0312/JAVA_0312.iml" filepath="$PROJECT_DIR$/JAVA_0312/JAVA_0312.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JAVA_0319/JAVA_0319.iml" filepath="$PROJECT_DIR$/JAVA_0319/JAVA_0319.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA_Conquer/JAVA_Conquer.iml" filepath="$PROJECT_DIR$/JAVA_Conquer/JAVA_Conquer.iml" />
     </modules>
   </component>

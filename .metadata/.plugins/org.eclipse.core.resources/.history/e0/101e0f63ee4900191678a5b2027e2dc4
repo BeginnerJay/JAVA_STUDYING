@@ -1,0 +1,16 @@
+package JAVA_0319;
+
+public class JAVA0319_8 {
+
+	public static void main(String[] args) {
+		int i = 1234;
+		String s = "computer";
+		byte b = 12;
+		
+		System.out.println("i = " + i);
+		System.out.println("s = " + s);
+		b = (byte)i;
+		System.out.println("b = " + b);
+	}
+
+}

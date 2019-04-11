@@ -1,0 +1,10 @@
+package JAVA_0319;
+
+public class JAVA0319_1 {
+
+	public static void main(String[] args) {
+		for (i = 1; i <=5; i++) { // 1부터 시작해서 5까지 1씩 증가
+			System.out.println(i+"번 학생 성적 처리");
+		}
+	}
+}

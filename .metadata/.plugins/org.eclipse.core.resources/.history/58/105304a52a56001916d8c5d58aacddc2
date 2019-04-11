@@ -1,0 +1,10 @@
+package chapter5;
+
+public class Person {
+	String name;
+	float height;
+	double weight;
+	char gender;
+	boolean married;
+	int kids;
+	}

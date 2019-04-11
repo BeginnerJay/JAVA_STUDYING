@@ -1,0 +1,19 @@
+package chapter6;
+
+public class StudentTest2 {
+
+	public static void main(String[] args) {
+		Student1 studentLee = new Student1();
+		studentLee.setStudentName("ÀÌÁöÀº");
+		System.out.println(studentLee.serialNum);
+		System.out.println(studentLee.studentName+" ÇĞ¹ø : "+
+		studentLee.studentID);
+		
+		Student1 studentSon = new Student1();
+		studentSon.setStudentName("¼ÕÈï¹Î");
+		System.out.println(studentSon.serialNum);
+		System.out.println(studentSon.studentName+" ÇĞ¹ø : "+
+		studentSon.studentID);
+	}
+
+}

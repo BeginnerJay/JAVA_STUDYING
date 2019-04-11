@@ -1,0 +1,27 @@
+package chapter5;
+
+public class DoWhile {
+	public static void main(String[] args) {
+
+        java.util.Scanner scaner = new java.util.Scanner(System.in);
+
+        int num;
+
+        int sum = 0;
+
+        do {
+
+            System.out.print("숫자를 입력하세요(끝낼 때 0) : ");
+
+            num = scaner.nextInt();
+
+            sum = sum + num;
+
+        } while (num != 0);
+
+        System.out.println("총 합계 = " + sum);
+
+        scaner.close();
+
+   }
+}

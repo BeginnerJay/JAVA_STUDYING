@@ -1,0 +1,11 @@
+package chapter11;
+
+public class SWTest {
+
+	public static void main(String[] args) {
+		SWeight kim = new SWeight("±èÀç¿í", 84, 174);
+		kim.check_SWeight();
+		kim.display();
+	}
+
+}

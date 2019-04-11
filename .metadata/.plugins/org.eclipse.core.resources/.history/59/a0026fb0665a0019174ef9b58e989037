@@ -1,0 +1,17 @@
+package chapter11;
+
+public class SWeight {
+	String name;
+	double weight, height, SW;
+	final double BASE = 110, PERCENT = 0.9;
+	
+	SWeight(String name, double weight, double height) {
+		this.name = name;
+		this.weight = weight;
+		this.height = height;
+	}
+	
+	void check_Sweight() {
+		SW = (height - BASE) * PERCENT;
+	}
+}

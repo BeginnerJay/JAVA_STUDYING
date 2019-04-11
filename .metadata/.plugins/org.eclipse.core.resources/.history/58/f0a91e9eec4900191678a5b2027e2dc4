@@ -1,0 +1,34 @@
+package JAVA_0319;
+
+public class JAVA0319_6 {
+	public static void main(String[] args) {
+		double pie = 0.;
+		boolean plus = true;
+		
+		for (double i = 0; i <= 100000000; i++) {
+			pie = pie + (Math.pow(-1., i)/(2*i + 1));
+		}
+		pie = 4*pie;
+		System.out.println("pie="+pie);
+		
+		pie = 0;
+		for (int i = 1; i < 100000000; i = i + 2) {
+			if(plus) {
+				pie = pie + 1.0/i;
+				plus = false;
+			} else {
+				pie = pie -1.0/i;
+				plus = true;
+			}
+		}
+		pie = 4 * pie;
+		System.out.println("pie="+pie);
+		
+		pie = 0;
+		for (long deno = 1; deno < 100000000; deno++) {
+			pie = pie + (1.0/(deno*deno));
+		}
+		pie = Math.sqrt(pie*6);
+		System.out.println("pie="+pie);
+	}
+}

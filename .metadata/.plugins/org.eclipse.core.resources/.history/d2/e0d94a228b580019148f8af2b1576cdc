@@ -1,0 +1,33 @@
+package chapter5;
+
+public class Triangle {
+	public static void main(String[] args) {
+        
+		for (int i = 1; i <= 10; i++) {
+            for (int j = 0;j < i;j++) {
+                 System.out.print('*');
+            }
+             System.out.println();
+        }
+/*
+ * 매 i 루프에 대해 공백 루프는 
+ * 9부터 시작해서 0까지 점점 감소하는데 
+ * i가 1일 때 9회, 2일 때 8회, 3일 때 7이 되는 식이다. 
+ * 여기서 행번호 i와 공백 개수는 다음 함수로 정의된다.
+ *
+ * 공백의 개수 = 10 - i
+ * 이 개수를 공백 루프의 끝범위로 사용한다.
+ */
+        for (int i = 1; i <= 10; i++) {
+            for (int j = 0;j < 10 - i;j++) {
+                 System.out.print(' ');
+            }
+
+            for (int j = 0;j < i;j++) {
+                 System.out.print('*');
+            }
+            System.out.println();
+
+        }
+    }
+}

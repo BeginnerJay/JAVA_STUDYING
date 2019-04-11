@@ -1,0 +1,43 @@
+
+public class CALLENDER {
+	public static void main(String[] args) {
+		int year;
+		int month;
+		int day;
+		int base_year = 1996;
+		int[] normal_month= {31,28,31,30,31,30,31,31,30,31,30,31};
+		int[] leap_month= {31,29,31,30,31,30,31,31,30,31,30,31};
+		
+		java.util.Scanner input= new java.util.Scanner(System.in);
+		
+		System.out.print("연도를 입력하세요 : ");
+		year = input.nextInt();
+		System.out.print("월을 입력하세요 : ");
+		month = input.nextInt();
+		
+		if (year<1996) {
+			System.out.println("입력값 오류");
+			input.close();
+			return ;
+		}
+		
+		if (leap_year_days(year)) {
+		System.out.printf("%4d", leap_month);
+		}
+		
+		else {
+		System.out.printf("%4d", normal_month);
+		}
+		input.close();
+	}
+		
+
+	public static boolean leap_year_days(final int year) {
+		boolean ret;
+			if (year%4==0 && year%100!=0 || year%400==0)
+				ret = true;
+			else
+				ret = false;
+		return ret;
+}
+	}

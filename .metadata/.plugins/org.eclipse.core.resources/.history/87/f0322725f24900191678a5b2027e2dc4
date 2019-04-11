@@ -1,0 +1,42 @@
+package JAVA_0319;
+
+public class JAVA0319_8 {
+
+	public static void main(String[] args) {
+		int i = 1234;
+		String s = "computer";
+		byte b = 12;
+		//숫자랑 문자열은 강제 변환이 불가능하다.
+		int num = 0x12345678;
+		System.out.println("i = " + i);
+		System.out.println("s = " + s);
+		b = (byte)i; //캐스트 연산자로 타입을 지정하여 에러를 나지 않게 한다.
+		System.out.println("b = " + b);
+		
+		System.out.printf("num = 0x%08x\n", num);
+		num = num >> 16;
+		System.out.printf("num = 0x%08x\n", num);
+		num = num << 16;
+		System.out.printf("num = 0x%08x\n", num);
+		
+		int a1 = 0x12345678;
+		int a2 = 0x00000000;
+		int a3 = 0xffffffff;
+		
+		System.out.printf("0x%08x & 0x%08x = 0x%08x\n", a1, a2, a1&a2); //비트 연산자 : & 한개, 아니면 &&
+		System.out.printf("0x%08x & 0x%08x = 0x%08x\n", a1, a3, a1&a3);
+		
+		System.out.printf("0x%08x | 0x%08x = 0x%08x\n", a1, a2, a1|a2); //비트 연산자 : & 한개, 아니면 &&
+		System.out.printf("0x%08x | 0x%08x = 0x%08x\n", a1, a3, a1|a3);
+		
+		a1 = 0x98765432;
+		a2 = 0xabcdef01;
+		System.out.printf("0x%08x ^ 0x%08x = 0x%08x\n", a1, a2, a1^a2);
+		
+		int a5 = a4^a2;
+		System.out.printf("0x%08x\n", a5);
+				
+				
+	}
+
+}

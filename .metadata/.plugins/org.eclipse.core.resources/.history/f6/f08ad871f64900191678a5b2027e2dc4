@@ -1,0 +1,24 @@
+package JAVA_0319;
+
+public class JAVA0319_11 {
+
+	public static void main(String[] args) throws Exception {
+		FileInputStream in = new FileInputStream("test.bin");
+		byte[] data = new byte[2];
+		int len;
+		int count = 0;
+		
+		for(;;) {
+			len=in.read(data);
+			count++;
+			if (len == -1)
+				break;
+			
+			for (byte b : data)
+				System.out.print(b + " ");
+		}
+		in. close();
+		System.out.println("count = " + count);
+	}
+
+}

@@ -1,0 +1,47 @@
+package chapter11;
+
+class Human {
+	private int age;
+	private String name;
+	
+	Human(int age, String name) {
+		this.age = age;
+		this.name = name;
+	}
+
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	void intro() {
+		System.out.printf("안녕, %d살 %s입니다.\n", age, name);
+	}
+}
+
+
+class Student extends Human {
+	int stnum;
+	String major;
+	
+	Student(int age, String name, int stnum, String major) {
+	super(age, name);
+	this.stnum = stnum;
+	this.major = major;
+	}
+	
+	void study() {
+		System.out.println("하늘 천 따 지 검을 현 누를 황");
+	}
+}

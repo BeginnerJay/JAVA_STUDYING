@@ -1,0 +1,8 @@
+package JAVA_0319;
+
+public class JAVA0319_7 {
+	public static void main(String[] args) {
+		System.out.println("6 % 4 = " + (6%4));
+		System.out.printf("6 %% 4 = %d\n" + (6%4));
+	}
+}

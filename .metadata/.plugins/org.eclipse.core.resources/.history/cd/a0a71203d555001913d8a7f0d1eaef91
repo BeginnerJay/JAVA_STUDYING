@@ -1,0 +1,24 @@
+package chapter4;
+
+public class StarPyramid 
+{
+
+	public static void main(String[] args)
+	{
+		int lineCount = 4;
+		int spaceCount = 3;
+		int starCount = 1;
+		for (int i = 0; i < lineCount; i++) {
+			for (int j = spaceCount; j < 0; j--) {
+				System.out.print(" ");
+			}
+			for (int j = 0; j < args.length; j++) {
+				System.out.print("*");
+			}
+		System.out.println();
+		}
+		}
+	}
+}
+
+

@@ -1,0 +1,33 @@
+package chapter4;
+
+public class StarPractice3 {
+
+	public static void main(String[] args) {
+		int lineCount = 5;
+		int spaceCount = 3;
+		for (int i = 1; i < lineCount; i++) {
+			for (int j = 0; j < spaceCount; j++) {
+				System.out.print(" ");
+			}
+			spaceCount--;
+			for (int j = 0; j < i; j++) {
+				System.out.print("*");
+			}
+			
+		System.out.println();
+		}
+		
+		for(int i=1;i<5;i++){
+			for(int j=4;j>0;j--){
+				if(i<j){
+					System.out.print(" ");
+				}else{
+					System.out.print("*");
+				}
+			}
+			System.out.println("");
+		}
+
+	}
+
+}

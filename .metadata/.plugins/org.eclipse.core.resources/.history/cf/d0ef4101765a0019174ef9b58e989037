@@ -1,5 +1,0 @@
-package chapter11;
-
-public class Calender {
-	int year, month, day;
-}

@@ -2,7 +2,7 @@ package chapter3;
 
 public class Char {
 	public static void main(ClassString[] args) {
-		char ch = 'ÇÑ';
+		char ch = 'í•œ';
 		System.out.println(ch);
 		int i = ch;
 		System.out.println(i);

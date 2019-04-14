@@ -1,25 +1,25 @@
 package chapter1and2;
 
 public class Scanner {
-// ±âº» ÀÔ·Â °´Ã¼ÀÎ System.inÀº º¹ÀâÇÏ´Ï Scanner »ç¿ë¹ıºÎÅÍ ¾Ë¾Æº¸ÀÚ
+	// ê¸°ë³¸ ì…ë ¥ ê°ì²´ì¸ System.inì€ ë³µì¡í•˜ë‹ˆ Scanner ì‚¬ìš©ë²•ë¶€í„° ì•Œì•„ë³´ì
 	public static void main(String[] args) {
-		//¿¹Á¦ ¼öÁØ¿¡¼­´Â mainÀÇ ¼±µÎ¿Í ¸¶Áö¸·¿¡ °¢°¢ÀÇ ±¸¹®À» ÀÛ¼ºÇØÁÖ¸é µÈ´Ù.
+		//ì˜ˆì œ ìˆ˜ì¤€ì—ì„œëŠ” mainì˜ ì„ ë‘ì™€ ë§ˆì§€ë§‰ì— ê°ê°ì˜ êµ¬ë¬¸ì„ ì‘ì„±í•´ì£¼ë©´ ëœë‹¤.
 		java.util.Scanner scanner = new java.util.Scanner(System.in);
 		/*
-		 * nextInt() Á¤¼ö ÀÔ·Â
-		 * nextDouble() ½Ç¼ö ÀÔ·Â
-		 * nextLine() ¹®ÀÚ¿­ ÀÔ·Â
-		 * nextBoolean() true, false Áß ÀÔ·Â
+		 * nextInt() ì •ìˆ˜ ì…ë ¥
+		 * nextDouble() ì‹¤ìˆ˜ ì…ë ¥
+		 * nextLine() ë¬¸ìì—´ ì…ë ¥
+		 * nextBoolean() true, false ì¤‘ ì…ë ¥
 		 */
-		// ÀÔ·Â ¸Ş¼­µå´Â ÀÔ·Â¸¸ ¹ŞÀ» »Ó Áö½Ã »çÇ×À» º¸¿©ÁÖÁö ¾ÊÀ¸¹Ç·Î, ÀÔ·Â¹Ş±â Àü¿¡ print ¸Ş¼­µå·Î ¾Ë·ÁÁÖÀÚ
-		System.out.print("ÀÌ¸§À» ÀÔ·ÂÇÏ½Ã¿À :"); //ÀÌ¸§ ÀÔ·Â ¿·¿¡¼­
-		String ÀÌ¸§ = scanner.nextLine();
-		System.out.println("¾È³çÇÏ¼¼¿ä " +ÀÌ¸§+ "´Ô.");
-		
-		System.out.println("³ªÀÌ¸¦ ÀÔ·ÂÇÏ½Ã¿À :"); // ³ªÀÌ ÀÔ·Â ¹Ø¿¡¼­
-		int ³ªÀÌ = scanner.nextInt();
-		System.out.println("´ç½ÅÀº " +³ªÀÌ+ "»ìÀÔ´Ï´Ù.");
-		//¿¹Á¦ ¼öÁØ¿¡¼­´Â mainÀÇ ¼±µÎ¿Í ¸¶Áö¸·¿¡ °¢°¢ÀÇ ±¸¹®À» ÀÛ¼ºÇØÁÖ¸é µÈ´Ù.
+		// ì…ë ¥ ë©”ì„œë“œëŠ” ì…ë ¥ë§Œ ë°›ì„ ë¿ ì§€ì‹œ ì‚¬í•­ì„ ë³´ì—¬ì£¼ì§€ ì•Šìœ¼ë¯€ë¡œ, ì…ë ¥ë°›ê¸° ì „ì— print ë©”ì„œë“œë¡œ ì•Œë ¤ì£¼ì
+		System.out.print("ì´ë¦„ì„ ì…ë ¥í•˜ì‹œì˜¤ :"); //ì´ë¦„ ì…ë ¥ ì˜†ì—ì„œ
+		String ì´ë¦„ = scanner.nextLine();
+		System.out.println("ì•ˆë…•í•˜ì„¸ìš” " +ì´ë¦„+ "ë‹˜.");
+
+		System.out.println("ë‚˜ì´ë¥¼ ì…ë ¥í•˜ì‹œì˜¤ :"); // ë‚˜ì´ ì…ë ¥ ë°‘ì—ì„œ
+		int ë‚˜ì´ = scanner.nextInt();
+		System.out.println("ë‹¹ì‹ ì€ " +ë‚˜ì´+ "ì‚´ì…ë‹ˆë‹¤.");
+		//ì˜ˆì œ ìˆ˜ì¤€ì—ì„œëŠ” mainì˜ ì„ ë‘ì™€ ë§ˆì§€ë§‰ì— ê°ê°ì˜ êµ¬ë¬¸ì„ ì‘ì„±í•´ì£¼ë©´ ëœë‹¤.
 		scanner.close();
 	}
 

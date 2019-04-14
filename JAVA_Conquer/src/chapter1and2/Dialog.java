@@ -3,13 +3,13 @@ package chapter1and2;
 public class Dialog {
 
 	public static void main(String[] args) {
-		// ½ºÄ³³Ê¸¦ ¾²´Â ¹æ¹ıÀÌ ¾î·Æ´Ù¸é ±×·¡ÇÈ ¶óÀÌºê·¯¸®ÀÎ ½ºÀ®ÀÇ ´ëÈ­»óÀÚ »ç¿ëµµ °¡´É 
-		String ÀÌ¸§ = javax.swing.JOptionPane.showInputDialog("ÀÌ¸§À» ÀÔ·ÂÇÏ½Ã¿À");
-		System.out.println("¾È³çÇÏ¼¼¿ä " +ÀÌ¸§+ "´Ô.");
-		
-		String ³ªÀÌÃ¢ = javax.swing.JOptionPane.showInputDialog("³ªÀÌ¸¦ ÀÔ·ÂÇÏ½Ã¿À");
-		int ³ªÀÌ = Integer.parseInt(³ªÀÌÃ¢);
-		System.out.println("´ç½ÅÀº " +³ªÀÌ+ "»ìÀÔ´Ï´Ù.");
+		// ìŠ¤ìºë„ˆë¥¼ ì“°ëŠ” ë°©ë²•ì´ ì–´ë µë‹¤ë©´ ê·¸ë˜í”½ ë¼ì´ë¸ŒëŸ¬ë¦¬ì¸ ìŠ¤ìœ™ì˜ ëŒ€í™”ìƒì ì‚¬ìš©ë„ ê°€ëŠ¥
+		String ì´ë¦„ = javax.swing.JOptionPane.showInputDialog("ì´ë¦„ì„ ì…ë ¥í•˜ì‹œì˜¤");
+		System.out.println("ì•ˆë…•í•˜ì„¸ìš” " +ì´ë¦„+ "ë‹˜.");
+
+		String ë‚˜ì´ì°½ = javax.swing.JOptionPane.showInputDialog("ë‚˜ì´ë¥¼ ì…ë ¥í•˜ì‹œì˜¤");
+		int ë‚˜ì´ = Integer.parseInt(ë‚˜ì´ì°½);
+		System.out.println("ë‹¹ì‹ ì€ " +ë‚˜ì´+ "ì‚´ì…ë‹ˆë‹¤.");
 	}
 
 }

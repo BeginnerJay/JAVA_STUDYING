@@ -15,7 +15,7 @@ package chapter10;
     // 정적 메서드는 정적 변수만 참조 가능, 인스턴스 변수나 지역 변수는 참조 불가능.
     // 정적 메서드끼리만 호출 가능, 일반 메서드는 호출할 수 없음.
     // 객체와 상관없는 독립(객체로부터 호출X, 객체 無여도 호출可)적인 메서드로 이해하는 것이 직관적이다.
-public class Car {
+class Car {
     String name;
     boolean gasoline;
     //int carNum;

@@ -3,10 +3,9 @@ package chapter11;
 public class NotebookTest {
 
 	public static void main(String[] args) {
-		Notebook gram = new Notebook("i7", 16, 100, 27, "손흥민");
+		Notebook gram = new Notebook("i7", 16, 100);
+		gram.printSpec();
 
-		gram.display_notebook();
-		gram.person.intro();
 	}
 
 }

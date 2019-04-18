@@ -6,18 +6,18 @@ public class HWTest {
 		double weight, height;
 		double standardWeight;
 		final double BASE = 110, PERCENT = 0.9;
-		weight = Double.parseDouble(javax.swing.JOptionPane.showInputDialog("¸ö¹«°Ô ÀÔ·Â"));
-		height = Double.parseDouble(javax.swing.JOptionPane.showInputDialog("Å° ÀÔ·Â"));
-		
+		weight = Double.parseDouble(javax.swing.JOptionPane.showInputDialog("ëª¸ë¬´ê²Œ ì…ë ¥"));
+		height = Double.parseDouble(javax.swing.JOptionPane.showInputDialog("í‚¤ ì…ë ¥"));
+
 		standardWeight = (height - BASE)*PERCENT;
-		
+
 		if (weight < standardWeight - 5) {
-			System.out.println("ÀúÃ¼Áß");
+			System.out.println("ì €ì²´ì¤‘");
 		} else {
 			if (weight > standardWeight + 5) {
-				System.out.println("°úÃ¼Áß");
+				System.out.println("ê³¼ì²´ì¤‘");
 			} else {
-				System.out.println("Á¤»óÃ¼Áß");
+				System.out.println("ì •ìƒì²´ì¤‘");
 			}
 		}
 	}

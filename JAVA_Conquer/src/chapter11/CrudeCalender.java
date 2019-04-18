@@ -32,56 +32,56 @@ public class CrudeCalender {
 		int day = 0;
 
 		switch (month) {
-		case 1: case 3: case 5: case 7: case 8: case 10: case 12: 
-			day = 31; break;
-		case 4: case 6: case 9: case 11:
-			day = 30; break;
-		case 2:
-			if(leap_year(year) == true) {
-				day = 29;
-			}	
-			else {
-				day = 28;
-			}
+			case 1: case 3: case 5: case 7: case 8: case 10: case 12:
+				day = 31; break;
+			case 4: case 6: case 9: case 11:
+				day = 30; break;
+			case 2:
+				if(leap_year(year) == true) {
+					day = 29;
+				}
+				else {
+					day = 28;
+				}
 		}
 
 		return day;
-		
+
 	}
-	
+
 	public static void main(String[] args) {
 		int year, month, t_day, n_month;
 		final int BASEYEAR = 1996;
-		
+
 		java.util.Scanner in = new java.util. Scanner(System.in);
-		
-		System.out.println("¿¬µµ ÀÔ·Â : ");
-		year = in.nextInt();		
+
+		System.out.println("ì—°ë„ ì…ë ¥ : ");
+		year = in.nextInt();
 		if (year < BASEYEAR) {
-			System.out.print("ÀÔ·Â°ª ¿À·ù!");
+			System.out.print("ì…ë ¥ê°’ ì˜¤ë¥˜!");
 			in.close();
 			return;
 		}
-		
-		System.out.print("¿ù ÀÔ·Â : ");
+
+		System.out.print("ì›” ì…ë ¥ : ");
 		month = in.nextInt();
 		if (month < 1 || month > 12) {
-			System.out.println("ÀÔ·Â°ª ¿À·ù!");
+			System.out.println("ì…ë ¥ê°’ ì˜¤ë¥˜!");
 			in.close();
 			return;
 		}
-		
+
 		t_day = 0;
 		t_day += days_in_the_year(year - 1);
 		for (int i = 1; i < month; i++) {
 			t_day += days_in_a_month(year, i);
 		}
-		
-		System.out.printf("%9s%9s%9s%9s%9s%9s%9s\n","¿ù","È­","¼ö","¸ñ","±İ","Åä","ÀÏ");
+
+		System.out.printf("%9s%9s%9s%9s%9s%9s%9s\n","ì›”","í™”","ìˆ˜","ëª©","ê¸ˆ","í† ","ì¼");
 		for (int i = 1; i < (t_day%7); i++) {
 			System.out.printf("%6s", " ");
 		}
-		
+
 		n_month = days_in_a_month(year, month);
 		for (int i = 1; i <= n_month; i++) {
 			System.out.printf("%5d", i);

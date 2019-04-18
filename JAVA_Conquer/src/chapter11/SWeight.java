@@ -4,27 +4,27 @@ public class SWeight {
 	String name;
 	double weight, height, SW;
 	final double BASE = 100, PERCENT = 0.9;
-	
+
 	SWeight(String name, double weight, double height) {
 		this.name = name;
 		this.weight = weight;
 		this.height = height;
 	}
-	
+
 	void check_SWeight() {
 		SW = (height - BASE) * PERCENT;
 	}
-	
+
 	void display() {
 		check_SWeight();
-		System.out.println("¡§ªÛ√º¡ﬂ : " + SW);
+		System.out.println("Ï†ïÏÉÅÏ≤¥Ï§ë : " + SW);
 		if (weight < SW - 5) {
-			System.out.println("¿˙√º¡ﬂ");
+			System.out.println("Ï†ÄÏ≤¥Ï§ë");
 		} else {
 			if (weight > SW + 5) {
-				System.out.println("∞˙√º¡ﬂ");
+				System.out.println("Í≥ºÏ≤¥Ï§ë");
 			} else {
-				System.out.println("¡§ªÛ√º¡ﬂ");
+				System.out.println("Ï†ïÏÉÅÏ≤¥Ï§ë");
 			}
 		}
 	}

@@ -3,8 +3,8 @@ package chapter11;
 public class NotebookTest {
 
 	public static void main(String[] args) {
-		Notebook gram = new Notebook("i7", 16, 100, 27, "¼ÕÈï¹Î");
-		
+		Notebook gram = new Notebook("i7", 16, 100, 27, "ì†í¥ë¯¼");
+
 		gram.display_notebook();
 		gram.person.intro();
 	}

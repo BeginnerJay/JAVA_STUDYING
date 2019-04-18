@@ -11,11 +11,11 @@ public class Encryption {
 
 
 
-		System.out.print("¿ø¹® ÆÄÀÏ ÀÔ·Â : ");
+		System.out.print("ì›ë¬¸ íŒŒì¼ ì…ë ¥ : ");
 		i_fn = in_scanner.nextLine();
-		System.out.println("¾ÏÈ£ ÆÄÀÏ ÀÔ·Â : ");
+		System.out.println("ì•”í˜¸ íŒŒì¼ ì…ë ¥ : ");
 		o_fn = in_scanner.nextLine();
-		System.out.println("ÆĞ½º¿öµå ÀÔ·Â : ");
+		System.out.println("íŒ¨ìŠ¤ì›Œë“œ ì…ë ¥ : ");
 		pwd = in_scanner.nextLine();
 
 		byte[] pwd_b = new byte[pwd.length()];
@@ -33,7 +33,7 @@ public class Encryption {
 			int i = 0;
 			for (byte s : in_data) {
 				int j = pwd_b.length;
-				out_data[i++] = (byte)(pwd_b[i%j]^s); // XOR ¿¬»êÀ» ÀÌ¿ëÇÑ ¾ÏÈ£È­
+				out_data[i++] = (byte)(pwd_b[i%j]^s); // XOR ì—°ì‚°ì„ ì´ìš©í•œ ì•”í˜¸í™”
 			}
 			out.write(out_data);
 		}

@@ -3,9 +3,9 @@ package chapter11;
 class Human {
 	private int age;
 	private String name;
-	
+
 	Human() {}
-	
+
 	Human(int age, String name) {
 		this.age = age;
 		this.name = name;
@@ -26,9 +26,9 @@ class Human {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
+
 	void intro() {
-		System.out.printf("¾È³ç, %d»ì %sÀÔ´Ï´Ù.\n", age, name);
+		System.out.printf("ì•ˆë…•, %dì‚´ %sì…ë‹ˆë‹¤.\n", age, name);
 	}
 }
 
@@ -36,33 +36,33 @@ class Human {
 class Student extends Human {
 	private int stnum;
 	private String major;
-	
+
 	Student(int age, String name, int stnum, String major) {
-	super(age, name);
-	this.stnum = stnum;
-	this.major = major;
+		super(age, name);
+		this.stnum = stnum;
+		this.major = major;
 	}
-	
+
 	Student() {
 		super();
 		stnum = 999;
-		super.setName("±èµµµµ");
+		super.setName("ê¹€ë„ë„");
 		super.setAge(20);
-		major = "ÄÄÇ»ÅÍ°øÇĞ°ú";
+		major = "ì»´í“¨í„°ê³µí•™ê³¼";
 	}
-	
+
 	void display_student() {
-		System.out.println("ÀÌ¸§ : " + super.getAge());
-		System.out.println("Àü°ø : " + major);
+		System.out.println("ì´ë¦„ : " + super.getAge());
+		System.out.println("ì „ê³µ : " + major);
 	}
-	
+
 	void study() {
-		System.out.println("ÇÏ´Ã Ãµ µû Áö °ËÀ» Çö ´©¸¦ È²");
+		System.out.println("í•˜ëŠ˜ ì²œ ë”° ì§€ ê²€ì„ í˜„ ëˆ„ë¥¼ í™©");
 	}
-	
+
 	void intro() {
-		System.out.println("Àü°ø : " + major);
-		System.out.println("ÇĞ¹ø : " + stnum);
+		System.out.println("ì „ê³µ : " + major);
+		System.out.println("í•™ë²ˆ : " + stnum);
 		System.out.println("*****************");
 		super.intro();
 	}
@@ -89,5 +89,5 @@ class Student extends Human {
 	public void setName(String name) {
 		// TODO Auto-generated method stub
 		super.setName(name);
-	}	
+	}
 }

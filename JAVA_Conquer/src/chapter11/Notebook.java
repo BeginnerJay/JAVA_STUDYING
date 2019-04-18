@@ -5,16 +5,16 @@ public class Notebook {
 	int mem_size;
 	int storage_size;
 	Human person;
-	
+
 	Notebook(String CPU, int mem_size, int storage_size, int age, String name) {
 		this.CPU = CPU;
 		this.mem_size = mem_size;
 		this.storage_size = storage_size;
-		person = new Human(age, name); // »ó¼ÓÀº is a, Æ÷ÇÔÀº has a
+		person = new Human(age, name); // ìƒì†ì€ is a, í¬í•¨ì€ has a
 	}
-	
+
 	void display_notebook() {
 		System.out.println("CPU : " + CPU);
-		
+
 	}
 }

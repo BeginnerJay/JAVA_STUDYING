@@ -3,8 +3,8 @@ package chapter11;
 public class SWTest {
 
 	public static void main(String[] args) {
-		SWeight kim = new SWeight("±èÀç¿í", 84, 174);
-		//kim.check_SWeight(); // ¾ê¸¦ ¸ÕÀú ¾È ½áÁÖ¸é Á¦´ë·Î Ã¼Áß °è»êÀÌ ¾ÈµÈ´Ù. »ı¼ºÀÚ¿¡ ¸Ş¼­µå¸¦ È£ÃâÇØÁÖÀÚ(discouraged)
+		SWeight kim = new SWeight("ê¹€ì¬ìš±", 84, 174);
+		//kim.check_SWeight(); // ì–˜ë¥¼ ë¨¼ì € ì•ˆ ì¨ì£¼ë©´ ì œëŒ€ë¡œ ì²´ì¤‘ ê³„ì‚°ì´ ì•ˆëœë‹¤. ìƒì„±ìì— ë©”ì„œë“œë¥¼ í˜¸ì¶œí•´ì£¼ì(discouraged)
 		kim.display();
 	}
 

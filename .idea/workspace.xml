@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bc26521-9106-47e1-b2fc-382f1357c728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/BusTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/HelloTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/LaptopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/RangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/Station.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter10/TimeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,20 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter10/Bus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter10/BusTest.java">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter11/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="108">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -164,13 +142,14 @@
               <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="Student.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -325,7 +304,7 @@
       <workItem from="1555396745439" duration="653000" />
       <workItem from="1555406633544" duration="8698000" />
       <workItem from="1555571887191" duration="619000" />
-      <workItem from="1555573252216" duration="13298000" />
+      <workItem from="1555573252216" duration="15167000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1554958754027</created>
@@ -383,17 +362,24 @@
       <option name="project" value="LOCAL" />
       <updated>1555587938308</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="learned chapter 10 자바정복">
+      <created>1555595515485</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555595515485</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101427000" />
+    <option name="totallyTimeSpent" value="103296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23458445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23458445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -403,7 +389,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32768363" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.29943502" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.29943502" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -475,63 +461,14 @@
     <MESSAGE value="Added 0416 class" />
     <MESSAGE value="learned chapter 8 자바정복" />
     <MESSAGE value="learned chapter 09 자바정복" />
-    <option name="LAST_COMMIT_MESSAGE" value="learned chapter 09 자바정복" />
+    <MESSAGE value="learned chapter 10 자바정복" />
+    <option name="LAST_COMMIT_MESSAGE" value="learned chapter 10 자바정복" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter6/CarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter7/ObjectCopy1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter6/CoffeeBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter6/CardCompany.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter12/NewHash.java" />
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Hash.java" />
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter6/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#1280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter12/NewHash2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/j0416/hash.java" />
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter12/FileHash.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -876,6 +813,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter10/BusTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter10/Bus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -883,10 +827,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter10/BusTest.java">
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter11/StudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter11/SWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter11/SWTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter11/CalenderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter11/CrudeCalender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter11/Encryption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter11/Calender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter11/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>

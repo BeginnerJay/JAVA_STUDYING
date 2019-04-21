@@ -2,32 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bc26521-9106-47e1-b2fc-382f1357c728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/AutoBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/DeliveryMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/DeliveryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Dove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Graduate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/HumanStudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/PeopleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/SkyKongKong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Thief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Transport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Calender.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Calender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/CrudeCalender.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/CrudeCalender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Encryption.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Encryption.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/FileEncrypt.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/FileEncrypt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/HWTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/HWTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Notebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Notebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/NotebookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/NotebookTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/SWTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/SWTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/SWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/SWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/StudentTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Animal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dove.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dove.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/JavaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/JavaTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Animal2.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Doit/bin/" />
@@ -128,9 +121,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -140,30 +133,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter12" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,7 +285,10 @@
       <workItem from="1555406633544" duration="8698000" />
       <workItem from="1555571887191" duration="619000" />
       <workItem from="1555573252216" duration="20273000" />
-      <workItem from="1555661593347" duration="10981000" />
+      <workItem from="1555661593347" duration="11226000" />
+      <workItem from="1555741344574" duration="1252000" />
+      <workItem from="1555748464316" duration="98000" />
+      <workItem from="1555748590306" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1554958754027</created>
@@ -392,16 +367,23 @@
       <option name="project" value="LOCAL" />
       <updated>1555603383051</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="learned chapter 12 자바정복(Polymorphism)">
+      <created>1555738697790</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555738697792</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119383000" />
+    <option name="totallyTimeSpent" value="121099000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23726542" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.50899035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -411,7 +393,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32768363" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.29943502" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.29943502" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -485,7 +467,8 @@
     <MESSAGE value="learned chapter 09 자바정복" />
     <MESSAGE value="learned chapter 10 자바정복" />
     <MESSAGE value="learned chapter 11 자바정복(Inheritance)" />
-    <option name="LAST_COMMIT_MESSAGE" value="learned chapter 11 자바정복(Inheritance)" />
+    <MESSAGE value="learned chapter 12 자바정복(Polymorphism)" />
+    <option name="LAST_COMMIT_MESSAGE" value="learned chapter 12 자바정복(Polymorphism)" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -748,13 +731,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Animal2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Animal2.java" />
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter12/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">

@@ -19,18 +19,17 @@ public class VIPCustomer_Inherited extends Customer{
         System.out.println("VIPCustomer_Inherited(int, String) constructor 호출");
     }
 
-    public int getAgentID() {
-        return agentID;
-    }
-    // VIP 고객에게 제공하는 혜택인 할인율과 세일 가격은 어떻게 구현하지???
-    // 8-3 Method Override에서 자세히 배워보자.
-
-    public String getVIPInfo() {
-        //return super.getCustomerInfo() + "담당 상담원 ID는" + agentID + "입니다";
-        return getCustomerInfo() + "담당 상담원 ID는" + agentID + "입니다";
+    @Override
+    public String getCustomerInfo() {
+        return super.getCustomerInfo() + "담당 상담원 ID는 " + agentID + "입니다.";
         // super. 를 붙이는 것이 원칙이지만, 굳이 호출하지 않아도 잘 동작한다.
         // 하위 클래스가 상위 클래스와 동일한 이름의 메서드를 구현하는 경우도 있는데, 그럴 때는 super.가 필요하다.
         // 8-3 Method Override에서 자세히 배워보자.
     }
 
+    @Override
+    public int calcPrice(int price) {
+        bonusPoint += price * bonusRatio; // 보너스 포인트 적립
+        return price - (int)(price * saleRatio); // 할인된 가격을 계산하여 반환
+    }
 }

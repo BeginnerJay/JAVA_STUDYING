@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Doit/Doit.iml" filepath="$PROJECT_DIR$/Doit/Doit.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA_Conquer/JAVA_Conquer.iml" filepath="$PROJECT_DIR$/JAVA_Conquer/JAVA_Conquer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP_Class/OOP_Class.iml" filepath="$PROJECT_DIR$/OOP_Class/OOP_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Lecture/OOP_Lecture.iml" filepath="$PROJECT_DIR$/OOP_Lecture/OOP_Lecture.iml" />
     </modules>
   </component>
 </project>

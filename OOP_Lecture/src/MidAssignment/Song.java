@@ -1,4 +1,4 @@
-package midassignment;
+package MidAssignment;
 
 class Song {
 	static int initialNum = 0; 

@@ -1,48 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bc26521-9106-47e1-b2fc-382f1357c728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/OOP_Lecture.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/InputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/OutPutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/WriteSongFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/Songmenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/songmenu2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q1InputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q1OutPutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="8bc26521-9106-47e1-b2fc-382f1357c728" name="Default Changelist" comment="OOP Lecture 20190430">
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/GenericPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/GenericPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/MemberArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/MemberArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/Plastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/Powder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter12/StackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doit/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Doit/bin/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/OOP_Class.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/src/midassignment/PlayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/src/midassignment/PlayListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/src/midassignment/PlayPlay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/src/midassignment/Song.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/src/midassignment/Songmenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/src/midassignment/songmenu2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Class/test.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doit/Doit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Doit/Doit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doit/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/JAVA_Conquer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/JAVA_Conquer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lecture/OOP_Lecture.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lecture/OOP_Lecture.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Doit/bin/" />
@@ -73,62 +53,82 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/WriteSongFile.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/StackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+            <state relative-caret-position="198">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/MyQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#126#134#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayList.java">
+        <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/QueueTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="270">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/Song.java">
+        <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/Member.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="-162">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding>
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/MemberArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayListTest.java">
+        <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/MyStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-54">
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/OutPutTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/InputTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="360">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#127#135#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,21 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Doit/src/chapter9/CarTest.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/Scheduler.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/RoundRobin.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/LeastJob.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/PriorityAllocation.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/AgentGetCall.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/SchedulerTest.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/CompleteCalc.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/Calculator.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/CalculatorTest.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/Calc.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/Shelf.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/Queue.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/BookShelf.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter10/BookShelfTest.java" />
         <option value="$PROJECT_DIR$/Doit/src/chapter10/SortTest.java" />
         <option value="$PROJECT_DIR$/Doit/src/chapter10/Sort.java" />
         <option value="$PROJECT_DIR$/Doit/src/chapter10/QuickSort.java" />
@@ -200,13 +185,28 @@
         <option value="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayListTest.java" />
         <option value="$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/OutPutTest.java" />
         <option value="$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/WriteSongFile.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/Material.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/Powder.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/Plastic.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/GenericPrinterTest.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/Point.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/GenericPrinter.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/GenericMethod.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/Member.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/MemberArrayListTest.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/MyStack.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/StackTest.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/MyQueue.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/QueueTest.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter12/MemberArrayList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -221,43 +221,37 @@
           <expand>
             <path>
               <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_Lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="Doit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_Lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="Doit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_Lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="Doit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture0430" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MidAssignment" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter12" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JAVA_Conquer/.project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -271,13 +265,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OutPutTest">
-    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture0430.InputTest" />
-      <module name="OOP_Lecture" />
+  <component name="RunManager" selected="Application.StackTest">
+    <configuration name="GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.GenericMethod" />
+      <module name="Doit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture0430.*" />
+          <option name="PATTERN" value="chapter12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutPutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture0430.OutPutTest" />
-      <module name="OOP_Lecture" />
+    <configuration name="GenericPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.GenericPrinterTest" />
+      <module name="Doit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture0430.*" />
+          <option name="PATTERN" value="chapter12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidTest.Q1InputTest" />
-      <module name="OOP_Lecture" />
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.LinkedListTest" />
+      <module name="Doit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidTest.*" />
+          <option name="PATTERN" value="chapter12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1OutPutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidTest.Q1OutPutTest" />
-      <module name="OOP_Lecture" />
+    <configuration name="MemberArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.MemberArrayListTest" />
+      <module name="Doit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidTest.*" />
+          <option name="PATTERN" value="chapter12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidTest.Q1Test" />
-      <module name="OOP_Lecture" />
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.StackTest" />
+      <module name="Doit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidTest.*" />
+          <option name="PATTERN" value="chapter12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OutPutTest" />
-        <item itemvalue="Application.InputTest" />
-        <item itemvalue="Application.Q1Test" />
-        <item itemvalue="Application.Q1InputTest" />
-        <item itemvalue="Application.Q1OutPutTest" />
+        <item itemvalue="Application.StackTest" />
+        <item itemvalue="Application.LinkedListTest" />
+        <item itemvalue="Application.MemberArrayListTest" />
+        <item itemvalue="Application.GenericMethod" />
+        <item itemvalue="Application.GenericPrinterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -410,7 +404,16 @@
       <workItem from="1556519361077" duration="9000000" />
       <workItem from="1556583141686" duration="73000" />
       <workItem from="1556583339092" duration="11000" />
-      <workItem from="1556583362702" duration="7884000" />
+      <workItem from="1556583362702" duration="7973000" />
+      <workItem from="1556698292590" duration="437000" />
+      <workItem from="1557233909422" duration="283000" />
+      <workItem from="1557235381941" duration="275000" />
+      <workItem from="1557235702658" duration="237000" />
+      <workItem from="1557236044403" duration="105000" />
+      <workItem from="1557242287072" duration="147000" />
+      <workItem from="1557277627325" duration="353000" />
+      <workItem from="1557387737589" duration="3504000" />
+      <workItem from="1557400527840" duration="10119000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1554958754027</created>
@@ -538,17 +541,24 @@
       <option name="project" value="LOCAL" />
       <updated>1556535824633</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="OOP Lecture 20190430">
+      <created>1556591617239</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1556591617239</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164170000" />
+    <option name="totallyTimeSpent" value="179719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23257373" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22788204" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -558,7 +568,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32768363" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.29943502" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.29943502" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -577,10 +587,47 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="SciView" order="9" />
+      <window_info anchor="right" id="R Packages" order="10" />
+      <window_info anchor="right" id="R Graphics" order="11" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.117292225" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32768363" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.29943502" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3997175" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32627118" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -624,6 +671,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <ignored-roots>
+      <path value="D:\JAVA_LAB\PY_LAB" />
+    </ignored-roots>
     <MESSAGE value="commit test" />
     <MESSAGE value="Doit Java 16" />
     <MESSAGE value="Added 자바정복 7장" />
@@ -638,175 +688,14 @@
     <MESSAGE value="learned chapter to 10-3 Doit(인터페이스)" />
     <MESSAGE value="learned chapter 10 Doit(인터페이스)" />
     <MESSAGE value="learned chapter 11 Doit(기본 클래스)" />
-    <option name="LAST_COMMIT_MESSAGE" value="learned chapter 11 Doit(기본 클래스)" />
+    <MESSAGE value="OOP Lecture 20190430" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Lecture 20190430" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/RoundRobin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/LeastJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/Scheduler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/SchedulerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/AgentGetCall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/PriorityAllocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/CompleteCalc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/BookShelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="70" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/BookShelfTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/Calc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/Shelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Doit/src/chapter10/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -1036,30 +925,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/InputTest.java">
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/WriteSongFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/Song.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="252">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
+        <state>
           <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
@@ -1067,18 +959,160 @@
     <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/OutPutTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/WriteSongFile.java">
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/InputTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        <state relative-caret-position="180">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+          <folding>
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/Material.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/Powder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/Plastic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/GenericPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="78" selection-start-line="2" selection-start-column="78" selection-end-line="2" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/GenericPrinterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/GenericMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="34" column="58" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/MemberArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#127#135#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#126#134#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/QueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/MemberArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
           </folding>
         </state>
       </provider>

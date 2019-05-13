@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bc26521-9106-47e1-b2fc-382f1357c728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/AnonymousInnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/ArrayListStramLTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/InnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/IntArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/LocalInnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/MyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/ReduceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/StringConCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/StringConcatImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/TestLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/TestMyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/TestStringConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/TravelCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doit/src/chapter13/TravelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter14/ArrayExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter14/AutoCloseObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter14/AutoCloseObjTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter14/AutoCloseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter14/ExceptionHandling1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter14/ExceptionHandling2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter14/IDFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doit/src/chapter14/ThrowsException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,19 +43,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Doit/src/chapter13/IntArrayTest.java">
+        <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/ThrowsException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Doit/src/chapter13/ArrayListStramLTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+            <state relative-caret-position="239">
+              <caret line="28" column="84" selection-start-line="28" selection-start-column="84" selection-end-line="28" selection-end-column="84" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,42 +55,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Doit/src/chapter13/ReduceTest.java">
+        <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/IDFormatException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+            <state relative-caret-position="147">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <element signature="e#0#530#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Doit/src/chapter13/TravelCustomer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding>
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Doit/src/chapter13/TravelTest.java">
+        <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/IDFormatTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="407">
+              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,15 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q1.java" />
-        <option value="$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q1Test.java" />
-        <option value="$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/InputTest.java" />
-        <option value="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayList.java" />
-        <option value="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/Song.java" />
-        <option value="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayListTest.java" />
-        <option value="$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/OutPutTest.java" />
-        <option value="$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/WriteSongFile.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter12/Material.java" />
         <option value="$PROJECT_DIR$/Doit/src/chapter12/Powder.java" />
         <option value="$PROJECT_DIR$/Doit/src/chapter12/Plastic.java" />
         <option value="$PROJECT_DIR$/Doit/src/chapter12/GenericPrinterTest.java" />
@@ -178,12 +138,21 @@
         <option value="$PROJECT_DIR$/Doit/src/chapter13/ReduceTest.java" />
         <option value="$PROJECT_DIR$/Doit/src/chapter13/TravelCustomer.java" />
         <option value="$PROJECT_DIR$/Doit/src/chapter13/TravelTest.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter14/ArrayExceptionHandling.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter14/ExceptionHandling1.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter14/ExceptionHandling2.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter14/AutoCloseObj.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter14/AutoCloseTest.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter14/AutoCloseObjTest.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter14/ThrowsException.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter14/IDFormatException.java" />
+        <option value="$PROJECT_DIR$/Doit/src/chapter14/IDFormatTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="width" value="1078" />
+    <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -210,7 +179,7 @@
               <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
               <item name="Doit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter14" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,13 +212,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TravelTest">
-    <configuration name="ArrayListStramLTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.ArrayListStramLTest" />
+  <component name="RunManager" selected="Application.IDFormatTest">
+    <configuration name="AutoCloseObjTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter14.AutoCloseObjTest" />
       <module name="Doit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter13.*" />
+          <option name="PATTERN" value="chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.IntArrayTest" />
+    <configuration name="AutoCloseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter14.AutoCloseTest" />
       <module name="Doit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter13.*" />
+          <option name="PATTERN" value="chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.TestLambda" />
+    <configuration name="ExceptionHandling1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter14.ExceptionHandling1" />
       <module name="Doit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter13.*" />
+          <option name="PATTERN" value="chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStringConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.TestStringConcat" />
+    <configuration name="ExceptionHandling2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter14.ExceptionHandling2" />
       <module name="Doit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter13.*" />
+          <option name="PATTERN" value="chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TravelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.TravelTest" />
+    <configuration name="IDFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter14.IDFormatTest" />
       <module name="Doit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter13.*" />
+          <option name="PATTERN" value="chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TravelTest" />
-        <item itemvalue="Application.ArrayListStramLTest" />
-        <item itemvalue="Application.IntArrayTest" />
-        <item itemvalue="Application.TestLambda" />
-        <item itemvalue="Application.TestStringConcat" />
+        <item itemvalue="Application.IDFormatTest" />
+        <item itemvalue="Application.AutoCloseObjTest" />
+        <item itemvalue="Application.AutoCloseTest" />
+        <item itemvalue="Application.ExceptionHandling2" />
+        <item itemvalue="Application.ExceptionHandling1" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +361,7 @@
       <workItem from="1557277627325" duration="353000" />
       <workItem from="1557387737589" duration="3504000" />
       <workItem from="1557400527840" duration="10204000" />
-      <workItem from="1557670597521" duration="19812000" />
+      <workItem from="1557670597521" duration="24961000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1554958754027</created>
@@ -548,17 +517,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557715152809</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Learned Doit Chapter 13(내부 클래스, 람다식, 스트림)">
+      <created>1557735038493</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1557735038493</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199616000" />
+    <option name="totallyTimeSpent" value="204765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17292225" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20509383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -568,7 +544,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32768363" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.29943502" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.29943502" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -691,83 +667,14 @@
     <MESSAGE value="OOP Lecture 20190430" />
     <MESSAGE value="Learned Doit to 12-2" />
     <MESSAGE value="Learned Doit Chapter 12(제네릭, 컬렉션 프레임워크)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learned Doit Chapter 12(제네릭, 컬렉션 프레임워크)" />
+    <MESSAGE value="Learned Doit Chapter 13(내부 클래스, 람다식, 스트림)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned Doit Chapter 13(내부 클래스, 람다식, 스트림)" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q1OutPutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="41" lean-forward="true" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidTest/Q1InputTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="21" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/WriteSongFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/Song.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/OutPutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Lecture0430/InputTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
-          <folding>
-            <element signature="e#10225#10226#0" expanded="true" />
-            <element signature="e#10308#10309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Doit/src/chapter12/Material.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -1116,7 +1023,7 @@
     <entry file="file://$PROJECT_DIR$/Doit/src/chapter13/TravelCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="e#294#295#0" expanded="true" />
             <element signature="e#321#322#0" expanded="true" />
@@ -1130,10 +1037,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Doit/src/chapter13/TravelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        <state relative-caret-position="341">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/ArrayExceptionHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/ExceptionHandling1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/ExceptionHandling2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/AutoCloseObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/AutoCloseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/AutoCloseObjTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/ThrowsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="28" column="84" selection-start-line="28" selection-start-column="84" selection-end-line="28" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/IDFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doit/src/chapter14/IDFormatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
           </folding>
         </state>
       </provider>

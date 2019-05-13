@@ -1,4 +1,5 @@
-package chapter12;
+package chapter12.arrayList;
+
 // ArrayList로 스택 구현하기(상자 쌓아 놓기)
 public class StackTest {
     public static void main(String[] args) {

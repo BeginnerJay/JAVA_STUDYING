@@ -1,4 +1,8 @@
-package chapter12;
+package chapter12.arrayList;
+
+import chapter12.Member;
+import chapter12.arrayList.MemberArrayList;
+
 // import chapter12.Member;
 public class MemberArrayListTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chapter12;
+package chapter12.arrayList;
 import java.util.ArrayList;
 public class MyStack {
     private ArrayList<String> arrayStack = new ArrayList<String>();

@@ -1,4 +1,4 @@
-package chapter12;
+package chapter12.arrayList;
 import java.util.ArrayList;
 public class MyQueue {
     private ArrayList<String> arrayQueue = new ArrayList<String>();

@@ -1,4 +1,6 @@
-package chapter12;
+package chapter12.arrayList;
+import chapter12.Member;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 

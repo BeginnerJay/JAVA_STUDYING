@@ -1,4 +1,4 @@
-package chapter12;
+package chapter12.arrayList;
 
 public class QueueTest {
     public static void main(String[] args) {

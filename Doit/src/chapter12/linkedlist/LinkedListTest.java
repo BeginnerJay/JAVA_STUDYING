@@ -1,4 +1,4 @@
-package chapter12;
+package chapter12.linkedlist;
 
 import java.util.LinkedList;
 

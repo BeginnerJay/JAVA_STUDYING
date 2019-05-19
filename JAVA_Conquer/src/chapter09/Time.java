@@ -14,7 +14,7 @@ class Time {
     int hour, minute, second;
     // 초기화 블록
     {
-        java.time.LocalTime now = java.time.LocalTime.now(); // LocalTime 자료형인 now를 LocalTime으로 선언
+        java.time.LocalTime now = java.time.LocalTime.now(); // LocalTimeTest 자료형인 now를 LocalTime으로 선언
         hour = now.getHour();
         if (hour >= 12) {
             hour -= 12;
@@ -22,7 +22,7 @@ class Time {
         } else {
             am = true;
         }
-        minute = now.getMinute(); // LocalTime 클래스의 getMinute() 메서드 호출
+        minute = now.getMinute(); // LocalTimeTest 클래스의 getMinute() 메서드 호출
         second = now.getSecond();
     }
 

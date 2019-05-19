@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bc26521-9106-47e1-b2fc-382f1357c728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/After100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/AtoZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/AtoZ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Birth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Calender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/ChangeCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Day100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/GetRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/GetRandomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Hypot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/IndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Join.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/LocalTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/MathConst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/NextInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Radian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Random2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Round.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/RoundNth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/RoundNthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Sin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Split.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/StartsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/StrAssign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/StrCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/StringConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/StringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/SubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Today.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Trim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/src/chapter09/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter09/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Doit/bin/" />
@@ -126,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter16/LocalTimeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="306">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -434,7 +399,7 @@
       <workItem from="1558020419299" duration="1125000" />
       <workItem from="1558071685496" duration="2881000" />
       <workItem from="1558253184607" duration="1167000" />
-      <workItem from="1558275345227" duration="516000" />
+      <workItem from="1558275345227" duration="844000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1554958754027</created>
@@ -639,15 +604,21 @@
       <option name="project" value="LOCAL" />
       <updated>1558020558343</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Learned Conquer Chapter 16(유틸리티 클래스)">
+      <created>1558275926534</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1558275926538</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="233689000" />
+    <option name="totallyTimeSpent" value="234017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22252011" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -659,7 +630,7 @@
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49731904" weight="0.32768363" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49932975" weight="0.32909605" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4953083" weight="0.29943502" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49463806" weight="0.29943502" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -668,7 +639,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32627118" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32909605" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.29943502" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5053619" side_tool="true" visible="true" weight="0.29943502" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -757,7 +728,8 @@
     <MESSAGE value="Learned Conquer Chapter 13(인터페이스)" />
     <MESSAGE value="Learned Conquer Chapter 14(패키지)" />
     <MESSAGE value="Learned Conquer Chapter 15(시스템 라이브러리)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learned Conquer Chapter 15(시스템 라이브러리)" />
+    <MESSAGE value="Learned Conquer Chapter 16(유틸리티 클래스)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned Conquer Chapter 16(유틸리티 클래스)" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1091,8 +1063,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter16/LocalTimeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="306">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

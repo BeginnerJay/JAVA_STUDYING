@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bc26521-9106-47e1-b2fc-382f1357c728" name="Default Changelist" comment="Learned Conquer Chapter 14(패키지)">
+    <list default="true" id="8bc26521-9106-47e1-b2fc-382f1357c728" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/AutoBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/BinaryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/CloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/FloatInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/IntInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Intbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/IsNaN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Nan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/NetworkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Printf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/PrintfFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/PrintfIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/StringInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Unbox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/PlayPlay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/Songmenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Lecture/src/MidAssignment/songmenu2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/HumanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/HumanTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Doit/bin/" />
@@ -36,14 +50,60 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Nan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/IsNaN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Printf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/PrintfIndex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/PrintfFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,23 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Doit/src/chapter15/FileReaderTest.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter15/FileWriterTest.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter15/InputStreamReaderTest.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter15/FileCopyTest.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter15/BufferedStreamTest.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter15/DataStreamTest.java" />
-        <option value="$PROJECT_DIR$/Doit/src/chapter15/ExternalizableTest.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Starcraft.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Marine.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Mutal.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Star.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Hideable.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Healing.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/DarkTempler.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Medic.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Dragoon.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Firebat.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Scurge.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Ghost.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/HandPhone.java" />
@@ -104,14 +147,31 @@
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter14/mod_util/kr/soen/util/Util.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter14/mod_util/module-info.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter14/mod_main/kr/soen/main/Main.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/CloneTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/HumanTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Human.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Network.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/NetworkTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Intbox.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/StringInt.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Unbox.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/AutoBox.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/IntInfo.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/BinaryString.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/FloatInfo.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Nan.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/IsNaN.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Printf.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/PrintfIndex.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/PrintfFormat.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="485" />
-    <option name="y" value="-30" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -122,6 +182,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,11 +195,16 @@
               <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter15" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,7 +216,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -170,13 +236,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PackageTest">
-    <configuration name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter14.CarTester" />
+  <component name="RunManager" selected="Application.PrintfFormat">
+    <configuration name="IsNaN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15.IsNaN" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter14.*" />
+          <option name="PATTERN" value="chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiInterfaceInheritTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.MultiInterfaceInheritTest" />
+    <configuration name="Nan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15.Nan" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter13.*" />
+          <option name="PATTERN" value="chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PackageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter14.kr.seoultech.PackageTest" />
+    <configuration name="Printf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15.Printf" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter14.kr.seoultech.*" />
+          <option name="PATTERN" value="chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.StarTest" />
+    <configuration name="PrintfFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15.PrintfFormat" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter13.*" />
+          <option name="PATTERN" value="chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperInterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.SuperInterfaceTest" />
+    <configuration name="PrintfIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15.PrintfIndex" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter13.*" />
+          <option name="PATTERN" value="chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PackageTest" />
-        <item itemvalue="Application.CarTester" />
-        <item itemvalue="Application.SuperInterfaceTest" />
-        <item itemvalue="Application.StarTest" />
-        <item itemvalue="Application.MultiInterfaceInheritTest" />
+        <item itemvalue="Application.PrintfFormat" />
+        <item itemvalue="Application.PrintfIndex" />
+        <item itemvalue="Application.Printf" />
+        <item itemvalue="Application.IsNaN" />
+        <item itemvalue="Application.Nan" />
       </list>
     </recent_temporary>
   </component>
@@ -326,6 +392,9 @@
       <workItem from="1557843101312" duration="4112000" />
       <workItem from="1557889366379" duration="598000" />
       <workItem from="1558003334712" duration="647000" />
+      <workItem from="1558020419299" duration="1125000" />
+      <workItem from="1558071685496" duration="2881000" />
+      <workItem from="1558253184607" duration="1167000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1554958754027</created>
@@ -523,26 +592,33 @@
       <option name="project" value="LOCAL" />
       <updated>1557844680895</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Learned Conquer Chapter 15(시스템 라이브러리)">
+      <created>1558020558343</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1558020558343</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228000000" />
+    <option name="totallyTimeSpent" value="233173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21179625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32768363" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49731904" weight="0.32768363" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32909605" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.29943502" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4953083" weight="0.29943502" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -551,7 +627,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32627118" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32909605" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" visible="true" weight="0.32344633" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50469166" side_tool="true" visible="true" weight="0.29943502" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -639,184 +715,14 @@
     <MESSAGE value="Learned Doit Chapter 15(파일 입출력)" />
     <MESSAGE value="Learned Conquer Chapter 13(인터페이스)" />
     <MESSAGE value="Learned Conquer Chapter 14(패키지)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learned Conquer Chapter 14(패키지)" />
+    <MESSAGE value="Learned Conquer Chapter 15(시스템 라이브러리)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned Conquer Chapter 15(시스템 라이브러리)" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter15/FileInputStreamTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter15/DataStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doit/src/chapter15/ExternalizableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Starcraft.java" />
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Marine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="e#72#73#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Mutal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Star.java" />
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Hideable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Medic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/DarkTempler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Healing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Dragoon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Firebat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Scurge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Ghost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/HandPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#61#62#0" expanded="true" />
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Camera.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/HandPhoneCamera.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1021,6 +927,135 @@
             <element signature="e#251#252#0" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding>
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Network.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/NetworkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/HumanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-517">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/CloneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Intbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/StringInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Unbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/AutoBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/IntInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/BinaryString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/FloatInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Nan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/IsNaN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Printf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/PrintfIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/PrintfFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>

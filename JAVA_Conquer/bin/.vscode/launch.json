@@ -1,0 +1,1659 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloJava<Doit>",
+            "request": "launch",
+            "mainClass": "chapter1.HelloJava",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BookShelfTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter10.BookShelfTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CalculatorTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter10.CalculatorTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SchedulerTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter10.SchedulerTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SortTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter10.SortTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ClassTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.ClassTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EqualsTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.EqualsTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HashCodeTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.HashCodeTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyDateTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.MyDateTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NewInstanceTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.NewInstanceTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ObjectCloneTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.ObjectCloneTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringBuilderTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.StringBuilderTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringClassTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.StringClassTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringEquals<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.StringEquals",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringTest1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.StringTest1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringTest2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.StringTest2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ToStringEx<Doit>",
+            "request": "launch",
+            "mainClass": "chapter11.ToStringEx",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BooleanEx<Doit>",
+            "request": "launch",
+            "mainClass": "chapter2.BooleanEx",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharacterEx1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter2.CharacterEx1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharacterEx2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter2.CharacterEx2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharacterEx3<Doit>",
+            "request": "launch",
+            "mainClass": "chapter2.CharacterEx3",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Constant<Doit>",
+            "request": "launch",
+            "mainClass": "chapter2.Constant",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoubleEx1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter2.DoubleEx1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExplicitConversion<Doit>",
+            "request": "launch",
+            "mainClass": "chapter2.ExplicitConversion",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ImplicitConversion<Doit>",
+            "request": "launch",
+            "mainClass": "chapter2.ImplicitConversion",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TypeInference<Doit>",
+            "request": "launch",
+            "mainClass": "chapter2.TypeInference",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Variable1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter2.Variable1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Variable2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter2.Variable2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OperationEx1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter3.OperationEx1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OperationEx2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter3.OperationEx2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OperationEx3<Doit>",
+            "request": "launch",
+            "mainClass": "chapter3.OperationEx3",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OperationEx4<Doit>",
+            "request": "launch",
+            "mainClass": "chapter3.OperationEx4",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OperationEx5<Doit>",
+            "request": "launch",
+            "mainClass": "chapter3.OperationEx5",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BasicLoop<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.BasicLoop",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreakExample2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.BreakExample2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ContinueExample<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.ContinueExample",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoWhileExample<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.DoWhileExample",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Even99<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.Even99",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForExample<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.ForExample",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfExample1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.IfExample1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfExample2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.IfExample2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NestedLoop<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.NestedLoop",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OperatorIfElse<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.OperatorIfElse",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OperatorSwitchCase<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.OperatorSwitchCase",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ScanStarDiamond<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.ScanStarDiamond",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Smaller99<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.Smaller99",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StarDiamond<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.StarDiamond",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StarPractice1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.StarPractice1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StarPractice2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.StarPractice2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StarPractice3<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.StarPractice3",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StarPyramid<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.StarPyramid",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SwitchCase<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.SwitchCase",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SwitchCase2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.SwitchCase2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WhileExample1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter4.WhileExample1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FunctionTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter5.FunctionTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyDateTest<Doit>(1)",
+            "request": "launch",
+            "mainClass": "chapter5.MyDateTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OrderTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter5.OrderTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PersonTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter5.PersonTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Student<Doit>",
+            "request": "launch",
+            "mainClass": "chapter5.Student",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter5.StudentTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentTest1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter5.StudentTest1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentTest2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter5.StudentTest2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CallAnotherConst<Doit>",
+            "request": "launch",
+            "mainClass": "chapter6.CallAnotherConst",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CallAnotherCont<Doit>",
+            "request": "launch",
+            "mainClass": "chapter6.CallAnotherCont",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CarFactoryTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter6.CarFactoryTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CardCompanyTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter6.CardCompanyTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CompanyTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter6.CompanyTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentTest1<Doit>(1)",
+            "request": "launch",
+            "mainClass": "chapter6.StudentTest1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentTest2<Doit>(1)",
+            "request": "launch",
+            "mainClass": "chapter6.StudentTest2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentTest3<Doit>",
+            "request": "launch",
+            "mainClass": "chapter6.StudentTest3",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentTest4<Doit>",
+            "request": "launch",
+            "mainClass": "chapter6.StudentTest4",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentTest5<Doit>",
+            "request": "launch",
+            "mainClass": "chapter6.StudentTest5",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TakeTrans<Doit>",
+            "request": "launch",
+            "mainClass": "chapter6.TakeTrans",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThisExample<Doit>",
+            "request": "launch",
+            "mainClass": "chapter6.ThisExample",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WorkerTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter6.WorkerTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AlphaArray<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.AlphaArray",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayCopy<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.ArrayCopy",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayListTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.ArrayListTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.ArrayTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayTest2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.ArrayTest2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayTest3<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.ArrayTest3",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BookArray<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.BookArray",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BookArray2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.BookArray2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharArray<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.CharArray",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DogTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.DogTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DogTestArrayList<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.DogTestArrayList",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EnhancedForLoop<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.EnhancedForLoop",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ObjectCopy1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.ObjectCopy1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ObjectCopy2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.ObjectCopy2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ObjectCopy3<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.ObjectCopy3",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentArray<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.StudentArray",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentArrayList<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.StudentArrayList",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentTest<Doit>(1)",
+            "request": "launch",
+            "mainClass": "chapter7.StudentTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoDimension<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.TwoDimension",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoDimensions2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter7.TwoDimensions2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AniamlTest1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter8.AniamlTest1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AnimalTest2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter8.AnimalTest2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CustomerTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter8.CustomerTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CustomerTest2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter8.CustomerTest2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CustomerTest3<Doit>",
+            "request": "launch",
+            "mainClass": "chapter8.CustomerTest3",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OverridingTest1<Doit>",
+            "request": "launch",
+            "mainClass": "chapter8.OverridingTest1",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OverridingTest2<Doit>",
+            "request": "launch",
+            "mainClass": "chapter8.OverridingTest2",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OverridingTest3<Doit>",
+            "request": "launch",
+            "mainClass": "chapter8.OverridingTest3",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestA<Doit>",
+            "request": "launch",
+            "mainClass": "chapter8.TestA",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CarTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter9.CarTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ComputerTest<Doit>",
+            "request": "launch",
+            "mainClass": "chapter9.ComputerTest",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Constant<Doit>(1)",
+            "request": "launch",
+            "mainClass": "chapter9.Constant",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainBoard<Doit>",
+            "request": "launch",
+            "mainClass": "chapter9.MainBoard",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UsingDefine<Doit>",
+            "request": "launch",
+            "mainClass": "chapter9.UsingDefine",
+            "projectName": "Doit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dialog<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter01_02.Dialog",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstEclipse<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter01_02.FirstEclipse",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JavaTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter01_02.JavaTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Scanner<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter01_02.Scanner",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Boolean<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter03.Boolean",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ClassString<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter03.ClassString",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-If<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.If",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfBlock<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.IfBlock",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfBlock2<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.IfBlock2",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfDialog<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.IfDialog",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfElse<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.IfElse",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfElseBlock<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.IfElseBlock",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfElseIf<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.IfElseIf",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfIf<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.IfIf",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RangeCase<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.RangeCase",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RangeIf<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.RangeIf",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringCase<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.StringCase",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringCase2<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.StringCase2",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Switch<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.Switch",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Switch2<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter04.Switch2",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Break<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.Break",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Continue<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.Continue",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoWhile<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.DoWhile",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Euler1<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.Euler1",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExirLoop<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.ExirLoop",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExitLabel<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.ExitLabel",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloatLoop<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.FloatLoop",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-For<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.For",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForBlock<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.ForBlock",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForDown<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.ForDown",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Gugu<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.Gugu",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Infinite<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.Infinite",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Leibniz1<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.Leibniz1",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Leibniz2<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.Leibniz2",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OddSum<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.OddSum",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Over100<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.Over100",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RandNum<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.RandNum",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Repaet<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.Repaet",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sum100<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.Sum100",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Triangle<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.Triangle",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoControl<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.TwoControl",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-While<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.While",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-While100<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter05.While100",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AndOr<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter06.AndOr",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Getabs<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter06.Getabs",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestEleven<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter06.TestEleven",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Alphabet<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.Alphabet",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Args<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.Args",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CompareRef<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.CompareRef",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CopyPrim<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.CopyPrim",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CopyRef<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.CopyRef",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForEach<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.ForEach",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForEach2<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.ForEach2",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForEachAssign<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.ForEachAssign",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InitArray<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.InitArray",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lookup<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.Lookup",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lookup2<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.Lookup2",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lookup3<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.Lookup3",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NewArray<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.NewArray",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Null<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.Null",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RaggedArray<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.RaggedArray",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rectangular<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.Rectangular",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RootTable<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.RootTable",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RootTable2<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.RootTable2",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ScoreArray<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.ScoreArray",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumArray<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.SumArray",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumArray2<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter07.SumArray2",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoxMessage<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.BoxMessage",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ErrorReturn<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.ErrorReturn",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GetMax<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.GetMax",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GetMax2<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.GetMax2",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Getdays<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.Getdays",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Method<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.Method",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Noarg<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.Noarg",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OutChars<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.OutChars",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OutCharsLn<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.OutCharsLn",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OutCharsNewLine<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.OutCharsNewLine",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OutStar<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.OutStar",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Refrag<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.Refrag",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Samecode<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.Samecode",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ValueArg<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.ValueArg",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Varargs<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.Varargs",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Void<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter08.Void",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CarTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter09.CarTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HumanTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter09.HumanTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InitTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter09.InitTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Object<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter09.Object",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TimeTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter09.TimeTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BusTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter10.BusTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CarTest<JAVA_Conquer>(1)",
+            "request": "launch",
+            "mainClass": "chapter10.CarTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter10.HelloTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LaptopTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter10.LaptopTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RangeTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter10.RangeTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TimeTest<JAVA_Conquer>(1)",
+            "request": "launch",
+            "mainClass": "chapter10.TimeTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CalenderTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter11.CalenderTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CrudeCalender<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter11.CrudeCalender",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Encryption<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter11.Encryption",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GraduateTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter11.GraduateTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HWTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter11.HWTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HumanTest<JAVA_Conquer>(1)",
+            "request": "launch",
+            "mainClass": "chapter11.HumanTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NotebookTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter11.NotebookTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PeopleTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter11.PeopleTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SWTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter11.SWTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter11.StudentTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TruckTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter11.TruckTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AnimalTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter12.AnimalTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DeliveryTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter12.DeliveryTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HashTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter12.HashTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HumanStudentTest<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter12.HumanStudentTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Instanceof<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter12.Instanceof",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Instanceof2<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter12.Instanceof2",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NewHash2<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter12.NewHash2",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PeopleTest<JAVA_Conquer>(1)",
+            "request": "launch",
+            "mainClass": "chapter12.PeopleTest",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Song<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter12.Song",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SongMenu<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter12.SongMenu",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SongRead<JAVA_Conquer>",
+            "request": "launch",
+            "mainClass": "chapter12.SongRead",
+            "projectName": "JAVA_Conquer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InputTest<OOP_Lecture>",
+            "request": "launch",
+            "mainClass": "Lecture0430.InputTest",
+            "projectName": "OOP_Lecture"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OutPutTest<OOP_Lecture>",
+            "request": "launch",
+            "mainClass": "Lecture0430.OutPutTest",
+            "projectName": "OOP_Lecture"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PlayListTest<OOP_Lecture>",
+            "request": "launch",
+            "mainClass": "MidAssignment.PlayListTest",
+            "projectName": "OOP_Lecture"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Songmenu<OOP_Lecture>",
+            "request": "launch",
+            "mainClass": "MidAssignment.Songmenu",
+            "projectName": "OOP_Lecture"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-songmenu2<OOP_Lecture>",
+            "request": "launch",
+            "mainClass": "MidAssignment.songmenu2",
+            "projectName": "OOP_Lecture"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Q1InputTest<OOP_Lecture>",
+            "request": "launch",
+            "mainClass": "MidTest.Q1InputTest",
+            "projectName": "OOP_Lecture"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Q1OutPutTest<OOP_Lecture>",
+            "request": "launch",
+            "mainClass": "MidTest.Q1OutPutTest",
+            "projectName": "OOP_Lecture"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Q1Test<OOP_Lecture>",
+            "request": "launch",
+            "mainClass": "MidTest.Q1Test",
+            "projectName": "OOP_Lecture"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Q3<OOP_Lecture>",
+            "request": "launch",
+            "mainClass": "MidTest.Q3",
+            "projectName": "OOP_Lecture"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Q3Test<OOP_Lecture>",
+            "request": "launch",
+            "mainClass": "MidTest.Q3Test",
+            "projectName": "OOP_Lecture"
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-
+package lecture0507;
 interface Unit {
 	void move();	
 	void attack();
@@ -13,7 +13,7 @@ interface Unit {
 	}
 	
 	void die() {
-		System.out.println("À¸À¸ÀÃ~");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½~");
 	}*/
 
 }

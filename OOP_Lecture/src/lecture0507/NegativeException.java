@@ -1,13 +1,13 @@
-
+package lecture0507;
 public class NegativeException extends Exception {
 	NegativeException() {
-		super("À½¼ö´Â ¾ÈµË´Ï´Ù.");
+		super("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ÈµË´Ï´ï¿½.");
 	}
 	NegativeException(int num) {
-		super("À½¼ö´Â ¾ÈµË´Ï´Ù.");
+		super("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ÈµË´Ï´ï¿½.");
 	}
 
 	NegativeException(double num) {
-		super("¹è¿­¹üÀ§¸¦ ¹þ¾î³µ½À´Ï´Ù.");
+		super("ï¿½è¿­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½î³µï¿½ï¿½ï¿½Ï´ï¿½.");
 	}
 }

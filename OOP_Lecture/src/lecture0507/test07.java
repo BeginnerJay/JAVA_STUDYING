@@ -1,4 +1,4 @@
-
+package lecture0507;
 public class test07 {
 
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-
+package lecture0507;
 public class test05 {
 
 	public static void main(String[] args) {
@@ -12,16 +12,16 @@ public class test05 {
 			arr[5]=100;
 		}
 		catch (java.lang.ArithmeticException e) {
-			System.out.println("0À¸·Î ³ª´©±â ¿¹¿Ü ¹ß»ý");
+			System.out.println("0ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ß»ï¿½");
 		}
 		catch (java.lang.ArrayIndexOutOfBoundsException e) {
-			System.out.println("Ã·ÀÚ°¡ ¹è¿­ ¹üÀ§¸¦ ³Ñ¾ú½À´Ï´Ù.");
+			System.out.println("Ã·ï¿½Ú°ï¿½ ï¿½è¿­ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ñ¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½.");
 		}
 		catch (Exception e) {
 			System.out.println(e.getMessage());
 		}
 		
-		System.out.println("ÇÁ·Î±×·¥ ½ÇÇà ¿Ï·á");
+		System.out.println("ï¿½ï¿½ï¿½Î±×·ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ï·ï¿½");
 
 	}
 

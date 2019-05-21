@@ -1,10 +1,10 @@
-
+package lecture0507;
 public class Mutal implements Unit {
 	public void move() {
-		System.out.println("ÆÛµæ ÆÛµæ");
+		System.out.println("ï¿½Ûµï¿½ ï¿½Ûµï¿½");
 	}
 	public void attack() {
-		System.out.println("»ïÁöÃ¢ È×È×");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Ã¢ ï¿½ï¿½ï¿½ï¿½");
 	}
 
 }

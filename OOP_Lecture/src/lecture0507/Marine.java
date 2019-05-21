@@ -1,13 +1,13 @@
-
+package lecture0507;
 public class Marine implements Unit {
 	public void move() {
-		System.out.println("¾ÆÀå ¾ÆÀå ");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ");
 	}
 	public void attack() {
-		System.out.println("µÎµÎµÎµÎµÎµÎ");
+		System.out.println("ï¿½ÎµÎµÎµÎµÎµï¿½");
 	}
 	public void bunker() {
-		System.out.println("½ï~ ¼û¾úÁö·Õ");
+		System.out.println("ï¿½ï¿½~ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 	}
 
 }

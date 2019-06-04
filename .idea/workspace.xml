@@ -2,19 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bc26521-9106-47e1-b2fc-382f1357c728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter18/GenArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter18/RawArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/LibraryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/lecture0521/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/lecture0521/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/lecture0521/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/lecture0521/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/lecture0521/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/lecture0521/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/lecture0521/library_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/lecture0521/test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Lecture/src/lecture0521/test02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doit/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Doit/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doit/src/chapter8/VIPCustomer_Inherited.java" beforeDir="false" afterPath="$PROJECT_DIR$/Doit/src/chapter8/VIPCustomer_Inherited.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/HumanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/HumanTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Graduate.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Graduate.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/HumanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/HumanTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/PeopleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/PeopleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Soldier.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Soldier.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/StudentTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Thief.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Thief.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Graduate.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Graduate.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/HumanStudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/HumanStudentTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/PeopleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/PeopleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Soldier.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Soldier.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Thief.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Thief.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/HumanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter15/HumanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Lecture/Lecture0430/InputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_Lecture/Lecture0430/InputTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Lecture/Lecture0430/OutPutTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_Lecture/Lecture0430/OutPutTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_Lecture/Lecture0430/WriteSongFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_Lecture/Lecture0430/WriteSongFile.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Doit/bin/" />
@@ -47,94 +70,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Nan.java">
+        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/LibraryMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="90">
+              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+              <folding>
+                <element signature="e#1762#1763#0" expanded="true" />
+                <element signature="e#1789#1790#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/BookTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/IsNaN.java">
+        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Library.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/Printf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/PrintfIndex.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter15/PrintfFormat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter16/Day100.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter16/LocalTimeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            <state relative-caret-position="1278">
+              <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter18/RawArrayList.java">
+        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+            <state relative-caret-position="72">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter18/GenArrayList.java">
+        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <state relative-caret-position="234">
+              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter16/After100.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Output.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Input.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,21 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/MultiInheritTest.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/HandPhoneCamera.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/FingerPrint.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/HandPhoneFingerPrint.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/InheritContainTest.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Internet.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/SmartPhone.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/MultiInterfaceInheritTest.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/DefMethod.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Zealot.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Unit.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/StarTest.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Print.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Output.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/SuperInterface.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter13/SuperInterfaceTest.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter14/Car.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter14/CarTester.java" />
@@ -207,14 +197,28 @@
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter16/LocalTimeTest.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter18/RawArrayList.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter18/GenArrayList.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/Library/test01.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/Library/book_test.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/Library/test02.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/Library/library.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/Library/test03.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/Library/test05.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/Library/test06.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/Library/test07.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/MakeBinFile.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/LibraryMain.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Input.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Output.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/User.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Library.java" />
+        <option value="$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/BookTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -225,29 +229,29 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_Lecture" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_Lecture" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_Lecture" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter18" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalAssignment" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,13 +283,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenArrayList">
-    <configuration name="GenArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter18.GenArrayList" />
-      <module name="JAVA_Conquer" />
+  <component name="RunManager" selected="Application.test01">
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalAssignment.BookTest" />
+      <module name="OOP_Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter18.*" />
+          <option name="PATTERN" value="FinalAssignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,51 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.LocalTimeTest" />
-      <module name="JAVA_Conquer" />
+    <configuration name="LibraryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalAssignment.LibraryMain" />
+      <module name="OOP_Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Printf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15.Printf" />
-      <module name="JAVA_Conquer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintfFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15.PrintfFormat" />
-      <module name="JAVA_Conquer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintfIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15.PrintfIndex" />
-      <module name="JAVA_Conquer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter15.*" />
+          <option name="PATTERN" value="FinalAssignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,13 +323,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalAssignment.test01" />
+      <module name="OOP_Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Library.test05" />
+      <module name="OOP_Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Library.test06" />
+      <module name="OOP_Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenArrayList" />
-        <item itemvalue="Application.LocalTimeTest" />
-        <item itemvalue="Application.PrintfFormat" />
-        <item itemvalue="Application.PrintfIndex" />
-        <item itemvalue="Application.Printf" />
+        <item itemvalue="Application.test01" />
+        <item itemvalue="Application.BookTest" />
+        <item itemvalue="Application.LibraryMain" />
+        <item itemvalue="Application.test06" />
+        <item itemvalue="Application.test05" />
       </list>
     </recent_temporary>
   </component>
@@ -445,6 +449,9 @@
       <workItem from="1558318016551" duration="40000" />
       <workItem from="1558318133687" duration="27000" />
       <workItem from="1558318202794" duration="265000" />
+      <workItem from="1559003225444" duration="10021000" />
+      <workItem from="1559608688154" duration="439000" />
+      <workItem from="1559609339109" duration="2721000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1554958754027</created>
@@ -660,22 +667,23 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235971000" />
+    <option name="totallyTimeSpent" value="249152000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2416332" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5186722" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49731904" weight="0.32768363" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4953146" weight="0.32676056" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49932975" weight="0.32909605" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49396783" weight="0.29943502" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49100968" visible="true" weight="0.29857144" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -684,7 +692,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32627118" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32909605" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5067024" side_tool="true" visible="true" weight="0.2859155" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50899035" side_tool="true" visible="true" weight="0.29857144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -781,141 +789,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/DefMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Unit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Internet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/MultiInterfaceInheritTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/SmartPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Zealot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/StarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Print.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/Output.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#100#101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/SuperInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter13/SuperInterfaceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter14/kr/seoutlech/kim/UtilClass.java" />
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter14/kr/seoultech/PackageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter14/kr/seoultech/choi/UtilClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter14/kr/seoultech/kim/UtilClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter14/kr/seoultech/util/Util.java" />
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter14/kr/seoultech/main/Main.java" />
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter14/mod_main/kr/seoultech/main/Main.java" />
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter14/mod_util/kr/seoultech/util/Util.java" />
@@ -1094,21 +967,126 @@
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter18/RawArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter18/GenArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        <state relative-caret-position="180">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter16/After100.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Library/test02.java" />
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Library/library.java" />
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Library/test01.java" />
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Library/book_test.java" />
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Library/test03.java" />
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Library/test05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Library/test06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/MakeBinFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/Library/test07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/LibraryMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="e#1762#1763#0" expanded="true" />
+            <element signature="e#1789#1790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Lecture/src/FinalAssignment/BookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
         </state>
       </provider>
     </entry>

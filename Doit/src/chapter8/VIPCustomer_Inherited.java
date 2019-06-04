@@ -1,4 +1,4 @@
-package chapter8;
+	package chapter8;
 //VIPCustomer 클래스 상속으로 구현하기
 public class VIPCustomer_Inherited extends Customer{
     private int agentID;

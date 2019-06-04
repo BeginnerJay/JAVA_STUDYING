@@ -13,6 +13,29 @@ class HumanTest {
 		Human kimcopy = kim;
 		Human kim2 = new Human(29, "김상형");
 		
+		Class cls = kim.getClass();
+		System.out.println("클래스 이름 : " + cls.getName());
+		System.out.println("슈퍼 클래스 : " + cls.getSuperclass().getName());
+		
+		System.out.println();
+		
+		System.out.println("필드 : ");
+		Field[] fields = cls.getDeclaredFields();
+		for (Field field : fields) {
+			System.out.print(field.getName() + " ");
+		}
+		
+		System.out.println();
+		
+		System.out.println("메서드 : ");
+		Method method[] = cls.getDeclaredMethods();
+		for (Method method2 : method) {
+			System.out.println(method2.getName() + " ");
+		}
+		
+		System.out.println();
+		
+		
 		String str = "범인 : " + kim;
         System.out.println(str);
         
@@ -25,13 +48,13 @@ class HumanTest {
 		System.out.println("kim.equals(kimcopy) : " + (kim.equals(kimcopy) ? "같다":"다르다"));
 		System.out.println("kim.equals(kim2) : " + (kim.equals(kim2) ? "같다":"다르다"));
 
-		Class cls = kim.getClass();
-		System.out.println("클래스 이름 = " + cls.getName());
-		System.out.println("슈퍼 클래스 = " + cls.getSuperclass().getName());
+		Class cls2 = kim.getClass();
+		System.out.println("클래스 이름 = " + cls2.getName());
+		System.out.println("슈퍼 클래스 = " + cls2.getSuperclass().getName());
 
 		System.out.print("필드 : ");
-		Field[] fields = cls.getDeclaredFields(); // Class 객체 메서드 쓰려면 java.lang.reflect.* 필요
-		for (Field F : fields) {
+		Field[] fields2 = cls.getDeclaredFields(); // Class 객체 메서드 쓰려면 java.lang.reflect.* 필요
+		for (Field F : fields2) {
 			System.out.print(F.getName() + " ");
 		}
 

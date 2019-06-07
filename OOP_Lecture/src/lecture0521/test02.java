@@ -1,23 +1,26 @@
+package lecture0521;
+
+
 import java.lang.reflect.*;
 
 public class test02 {
 
 	public static void main(String[] args) {
-		Human son=new Human(28, "¼ÕÈï¹Î");
+		Human son=new Human(28, "ï¿½ï¿½ï¿½ï¿½ï¿½");
 		
 		Class cls=son.getClass();
-		System.out.println("Å¬·¡½º ÀÌ¸§ : "+cls.getName());
-		System.out.println("½´ÆÛ Å¬·¡½º : "+
+		System.out.println("Å¬ï¿½ï¿½ï¿½ï¿½ ï¿½Ì¸ï¿½ : "+cls.getName());
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½ : "+
 		cls.getSuperclass().getName());
 		
-		System.out.print("ÇÊµå : ");
+		System.out.print("ï¿½Êµï¿½ : ");
 		Field[] fields=cls.getDeclaredFields();
 		for (Field F : fields) { 
 			System.out.print(F.getName()+" ");
 		}
 		
 		System.out.println();
-		System.out.print("¸Þ¼­µå : ");
+		System.out.print("ï¿½Þ¼ï¿½ï¿½ï¿½ : ");
 		Method methods[]=cls.getDeclaredMethods();
 		for (Method M : methods) {
 			System.out.print(M.getName()+" ");

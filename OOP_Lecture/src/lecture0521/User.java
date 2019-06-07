@@ -1,3 +1,6 @@
+package lecture0521;
+
+
 import java.io.*;
 public class User {
 	static String fn="student.bin";
@@ -7,7 +10,7 @@ public class User {
 		in=new java.util.Scanner(System.in);
 		int num;
 		
-		System.out.println("ÇÐ»ýÁ¤º¸ ÀÔ·Â -> 1, ÇÐ»ýÁ¤º¸ ¸ñ·Ï È®ÀÎ -> 2");
+		System.out.println("ï¿½Ð»ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ -> 1, ï¿½Ð»ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ È®ï¿½ï¿½ -> 2");
 		num=in.nextInt();
 		if (num==1) {
 			while (input()) ;
@@ -30,11 +33,11 @@ public class User {
 			boolean cont=true;
 			FileOutputStream fp=new FileOutputStream(fn, true);
 			while (cont) {
-				System.out.print("ÇÐ¹ø : ");
+				System.out.print("ï¿½Ð¹ï¿½ : ");
 				hakbun=in.nextLine();
-				System.out.print("ÀÌ¸§ : ");
+				System.out.print("ï¿½Ì¸ï¿½ : ");
 				name=in.nextLine();
-				System.out.print("¿¬¶ôÃ³ : ");
+				System.out.print("ï¿½ï¿½ï¿½ï¿½Ã³ : ");
 				tel=in.nextLine();
 				int tmpLen=hakbun.length();
 				for (int i=tmpLen; i<10; i++) {

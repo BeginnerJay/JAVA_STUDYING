@@ -1,3 +1,4 @@
+package lecture0521;
 
 public class Car {
 	String name;
@@ -5,15 +6,15 @@ public class Car {
 	
 	void run() {
 		if (gasoline) {
-			System.out.println("ºÎ¸ª ºÎ¸ª");
+			System.out.println("ï¿½Î¸ï¿½ ï¿½Î¸ï¿½");
 		}
 		else {
-			System.out.println("´úÄÈ ´úÄÈ");
+			System.out.println("ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½");
 		}
 	}
 	
 	void stop() {
-		System.out.println("³¢ÀÌÀÍ");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 	}
 
 }

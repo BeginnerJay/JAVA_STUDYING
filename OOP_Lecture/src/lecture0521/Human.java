@@ -1,3 +1,4 @@
+package lecture0521;
 
 public class Human {
 	int age;
@@ -9,7 +10,7 @@ public class Human {
 	}
 	
 	public String toString() {
-		return age+"¼¼ÀÇ"+name;
+		return age+"ï¿½ï¿½ï¿½ï¿½"+name;
 	}
 	
 	public boolean equals(Human obj) {

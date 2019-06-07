@@ -1,9 +1,10 @@
+package lecture0521;
 
 public class CarTester {
 
 	public static void main(String[] args) {
 		Car korando=new Car();
-		korando.name="ÄÚ¶õµµ C";
+		korando.name="ï¿½Ú¶ï¿½ï¿½ï¿½ C";
 		korando.gasoline=false;
 		
 		korando.run();

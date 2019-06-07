@@ -1,3 +1,4 @@
+package lecture0521;
 
 public class test01 {
 
@@ -5,11 +6,11 @@ public class test01 {
 		int i=1234;
 		System.out.println(i);
 		
-		Human kim=new Human(29, "±è»óÇü");
+		Human kim=new Human(29, "ï¿½ï¿½ï¿½ï¿½ï¿½");
 		//System.out.println(kim);
 		//System.out.println(kim.toString());
 		
-		Human park=new Human(29, "¹ÚÁö¼º");
+		Human park=new Human(29, "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 		System.out.println(kim.toString());
 		System.out.println(park.toString());
 		System.out.println(kim.equals(park));

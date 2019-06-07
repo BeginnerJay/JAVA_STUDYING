@@ -1,3 +1,4 @@
+package lecture0521;
 
 public class library_main {
 	static java.util.Scanner in=null;
@@ -37,10 +38,10 @@ public class library_main {
 		int menu_num;
 		in=new java.util.Scanner(System.in);
 		System.out.println("***********************");
-		System.out.println("  1. ´ëÃâ  ");
-		System.out.println("  2. ¹Ý³³  ");
-		System.out.println("  3. °Ë»ö  ");
-		System.out.println("  4. Á¾·á  ");
+		System.out.println("  1. ï¿½ï¿½ï¿½ï¿½  ");
+		System.out.println("  2. ï¿½Ý³ï¿½  ");
+		System.out.println("  3. ï¿½Ë»ï¿½  ");
+		System.out.println("  4. ï¿½ï¿½ï¿½ï¿½  ");
 		System.out.println("***********************");
 		System.out.print("input menu number : ");
 		//menu_num=Integer.parseInt(in.nextLine());

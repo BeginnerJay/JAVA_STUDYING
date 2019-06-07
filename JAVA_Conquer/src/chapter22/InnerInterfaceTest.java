@@ -12,7 +12,7 @@ package chapter22;
 public class InnerInterfaceTest {
     public static void main(String[] args) {
         Staff kim = new Staff();
-        Workable kimwork = new Workable() {
+        Staff.Workable kimwork = new Staff.Workable() {
             public void work(String what, int time) {
                 System.out.println(what + " 작업을 " + time + "시간동안 열심히 하기");
             }
@@ -20,7 +20,7 @@ public class InnerInterfaceTest {
         kim.doWork(kimwork, "보고서 작성", 2);
 
         Staff lee = new Staff();
-        Workable leework = new Workable() {
+        Staff.Workable leework = new Staff.Workable() {
             public void work(String what, int time) {
                 System.out.println(time + "시간동안  빈둥대며 " + what);
             }

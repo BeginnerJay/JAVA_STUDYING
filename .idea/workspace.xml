@@ -2,65 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bc26521-9106-47e1-b2fc-382f1357c728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ArrayStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CollectAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CollectMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CollectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CollectorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ComparableSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Comparing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Cont.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CountryDataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CountryStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Distinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/FileStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Generate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/GroupingByTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/IfPresentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/IntStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Iterate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Limit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/LimitSkip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/MaptoInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Min_Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Notebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/NotebookHumanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/OptionFilterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/OptionalMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/OrElseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/RangeClosed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ReduceMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ReduceSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ReduceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ReduceTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Skip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/SummingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/TwoPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/DirectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/EnumValueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/JavaType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/JavaTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ManTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ValueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ValueofTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/CarTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/HumanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/HumanTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/Object.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/Object.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/CarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Graduate.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Graduate.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/HumanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/HumanTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/PeopleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/PeopleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Soldier.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Soldier.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/StudentTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Thief.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Thief.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/AnimalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/AnimalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dove.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Truck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Graduate.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Graduate.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/HumanStudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/HumanStudentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/PeopleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/PeopleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Soldier.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Soldier.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Thief.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Thief.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/MaptoInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/MaptoInt.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Doit/bin/" />
@@ -93,43 +67,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CollectAverage.java">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/CarTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="90">
+              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/SummingTest.java">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="36">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#69#70#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ReduceSum.java">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="54">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+              <folding>
+                <element signature="e#71#72#0" expanded="true" />
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/GroupingByTest.java">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ManTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -162,19 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/Human.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/PredicateTest.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/PredicateTest2.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/PredicateTest3.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/BinaryOperatorTest.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/Compose.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/NegateTest.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/MethodRef.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/MethodRef2.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/ConstructorRef.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/ConstructorRef2.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/LambdaThread.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter23/GUI_event.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Cont.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Data.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CountryDataTest.java" />
@@ -213,13 +180,26 @@
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/SummingTest.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ReduceSum.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/GroupingByTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/OECD_Group_Test.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/DirectionTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ValueTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ValueofTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/EnumValueTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Direction.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/JavaType.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/JavaTypeTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Car.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/CarTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Human.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ManTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Student.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -247,7 +227,7 @@
               <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter24" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter25" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -284,13 +264,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OECD_Group_Test">
-    <configuration name="CollectAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter24.CollectAverage" />
+  <component name="RunManager" selected="Application.ManTest">
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter25.CarTest" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter24.*" />
+          <option name="PATTERN" value="chapter25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupingByTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter24.GroupingByTest" />
+    <configuration name="EnumValueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter25.EnumValueTest" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter24.*" />
+          <option name="PATTERN" value="chapter25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OECD_Group_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter24.OECD_Group_Test" />
+    <configuration name="JavaTypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter25.JavaTypeTest" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter24.*" />
+          <option name="PATTERN" value="chapter25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReduceSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter24.ReduceSum" />
+    <configuration name="ManTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter25.ManTest" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter24.*" />
+          <option name="PATTERN" value="chapter25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,12 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SummingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter24.SummingTest" />
+    <configuration name="ValueofTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter25.ValueofTest" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter24.*" />
+          <option name="PATTERN" value="chapter25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,11 +345,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OECD_Group_Test" />
-        <item itemvalue="Application.GroupingByTest" />
-        <item itemvalue="Application.ReduceSum" />
-        <item itemvalue="Application.SummingTest" />
-        <item itemvalue="Application.CollectAverage" />
+        <item itemvalue="Application.ManTest" />
+        <item itemvalue="Application.CarTest" />
+        <item itemvalue="Application.JavaTypeTest" />
+        <item itemvalue="Application.EnumValueTest" />
+        <item itemvalue="Application.ValueofTest" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +439,7 @@
       <workItem from="1559882696669" duration="7535000" />
       <workItem from="1559894599222" duration="931000" />
       <workItem from="1559895624477" duration="15057000" />
-      <workItem from="1559975883601" duration="3818000" />
+      <workItem from="1559975883601" duration="7337000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1554958754027</created>
@@ -741,27 +721,33 @@
       <option name="project" value="LOCAL" />
       <updated>1559910999540</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="자바정복 24장 공부(스트림)">
+      <created>1559979885981</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1559979885981</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="308673000" />
+    <option name="totallyTimeSpent" value="312192000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="782" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.55801105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.45576409" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4919571" weight="0.32627118" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49100968" weight="0.3257143" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49865952" weight="0.32485875" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.5966851" visible="true" weight="0.33808845" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.59517425" visible="true" weight="0.33474576" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -770,7 +756,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.5938338" weight="0.32909605" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32909605" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.40331492" side_tool="true" visible="true" weight="0.33808845" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.40482575" side_tool="true" visible="true" weight="0.33474576" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -832,11 +818,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <ignored-roots>
       <path value="D:\JAVA_LAB\PY_LAB" />
     </ignored-roots>
-    <MESSAGE value="learned chapter 10 자바정복" />
     <MESSAGE value="learned chapter 11 자바정복(Inheritance)" />
     <MESSAGE value="learned chapter 12 자바정복(Polymorphism)" />
     <MESSAGE value="learned chapter 08 Doit(상속과 다형성)" />
@@ -861,122 +845,14 @@
     <MESSAGE value="자바정복 21장 공부(스트림 입출력)" />
     <MESSAGE value="자바정복 22장 공부(클래스의 중첩)" />
     <MESSAGE value="자바정복 23장 공부(람다)" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바정복 23장 공부(람다)" />
+    <MESSAGE value="자바정복 24장 공부(스트림)" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바정복 24장 공부(스트림)" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/PredicateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/PredicateTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/PredicateTest3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/BinaryOperatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="57" lean-forward="true" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/Compose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/NegateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/MethodRef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-          <folding>
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/MethodRef2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/ConstructorRef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/ConstructorRef2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/LambdaThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter23/GUI_event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Cont.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Data.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -1263,11 +1139,134 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/GroupingByTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="216">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/OECD_Group_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ValueofTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/DirectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ValueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/EnumValueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Direction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/JavaType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/JavaTypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/CarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding>
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ManTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

@@ -2,26 +2,176 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bc26521-9106-47e1-b2fc-382f1357c728" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/AWT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/ActionListenerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/AppleOrangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/BoxLayoutSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/CardLayoutSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Click2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Click3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/DrawLineSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/DrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Event1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/FlowLayoutSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/FreeLineSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/GridLayoutSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/MouseEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/NestedLayoutSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/NullLayoutSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/SWING.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/WinEventListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doit/Doit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Doit/Doit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/JAVA_Conquer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/JAVA_Conquer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/CarTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/HumanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/HumanTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/Object.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/Object.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/CarTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Graduate.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Graduate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/HumanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/HumanTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/PeopleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/PeopleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Soldier.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Soldier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/StudentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Thief.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Thief.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Truck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Graduate.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Graduate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/HumanStudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/HumanStudentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/PeopleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/PeopleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Soldier.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Soldier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Thief.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Thief.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Const.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter01_02/Dialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter01_02/Dialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter01_02/FirstEclipse.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter01_02/FirstEclipse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter01_02/JavaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter01_02/JavaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter01_02/Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter01_02/Scanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Assign.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Assign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Boolean.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Boolean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Char.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Char.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/ClassString.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/ClassString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Constant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Escape.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Escape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Int.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Int.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Overflow.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Overflow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Precision.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Precision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Radix.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Radix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Underbar.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter03/Underbar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/If.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/If.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfBlock2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfBlock2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfElse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfElseBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfElseBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfElseIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfElseIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/IfIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/RangeCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/RangeCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/RangeIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/RangeIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/StringCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/StringCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/StringCase2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/StringCase2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/Switch2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter04/Switch2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Break.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Continue.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Continue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/DoWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Euler1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Euler1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/ExirLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/ExirLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/ExitLabel.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/ExitLabel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/FloatLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/FloatLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/For.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/For.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/ForBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/ForBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/ForDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/ForDown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Gugu.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Gugu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Infinite.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Infinite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Leibniz1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Leibniz1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Leibniz2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Leibniz2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/OddSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/OddSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Over100.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Over100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/RandNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/RandNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Repaet.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Repaet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Sum100.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Sum100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/TwoControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/TwoControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/While.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/While.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/While100.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter05/While100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter06/AndOr.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter06/AndOr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter06/Getabs.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter06/Getabs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter06/TestEleven.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter06/TestEleven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Alphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Alphabet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Args.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Args.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/CompareRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/CompareRef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/CopyPrim.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/CopyPrim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/CopyRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/CopyRef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/ForEach.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/ForEach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/ForEach2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/ForEach2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/ForEachAssign.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/ForEachAssign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/InitArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/InitArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Lookup.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Lookup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Lookup2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Lookup2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Lookup3.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Lookup3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/NewArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/NewArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Null.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Null.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/RaggedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/RaggedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Rectangular.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/Rectangular.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/RootTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/RootTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/RootTable2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/RootTable2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/ScoreArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/ScoreArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/SumArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/SumArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/SumArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter07/SumArray2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/BoxMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/BoxMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/ErrorReturn.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/ErrorReturn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/GetMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/GetMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/GetMax2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/GetMax2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Getdays.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Getdays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Noarg.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Noarg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/OutChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/OutChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/OutCharsLn.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/OutCharsLn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/OutCharsNewLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/OutCharsNewLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/OutStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/OutStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Refrag.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Refrag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Samecode.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Samecode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/ValueArg.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/ValueArg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Varargs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Void.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter08/Void.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/InitOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/InitOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/InitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/InitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/TimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter09/TimeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Bus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/BusTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/BusTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/HelloTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/HelloTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Laptop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/LaptopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/LaptopTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Range.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Range.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/RangeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/RangeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Station.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Station.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/TimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter10/TimeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Calender.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Calender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/CalenderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/CalenderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/CrudeCalender.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/CrudeCalender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Encryption.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Encryption.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/FileEncrypt.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/FileEncrypt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/GraduateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/GraduateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/HWTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/HWTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Notebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Notebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/NotebookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/NotebookTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/SWTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/SWTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/SWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/SWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/TruckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter11/TruckTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/AnimalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/AnimalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/AutoBike.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/AutoBike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Bike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/DeliveryMan.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/DeliveryMan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/DeliveryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/DeliveryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dove.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Dove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/FileHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/FileHash.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/HashTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/HashTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Instanceof2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/NewHash2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/NewHash2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/SkyKongKong.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/SkyKongKong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Song.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Song.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/SongMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/SongMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/SongRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/SongRead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Transport.class" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_Conquer/bin/chapter12/Transport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Lecture/OOP_Lecture.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Lecture/OOP_Lecture.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Doit/bin/" />
@@ -54,49 +204,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/CarTest.java">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/MouseEvent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Human.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="288">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="22" selection-end-column="11" />
               <folding>
-                <element signature="e#69#70#0" expanded="true" />
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#559#810#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Student.java">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/DrawLineSwing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="342">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
-                <element signature="e#71#72#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ManTest.java">
+        <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/FreeLineSwing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="72">
+              <caret line="34" column="56" lean-forward="true" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#98#106#0" expanded="true" />
+                <element signature="e#1787#2188#0" expanded="true" />
+                <element signature="e#2187#2188#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,25 +272,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Data.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CountryDataTest.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CountryStreamTest.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/IntStream.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ArrayStream.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Generate.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Iterate.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/FileStream.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Filter.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Map.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Distinct.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Limit.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Skip.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/LimitSkip.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/TwoPower.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Sorted.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Country.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ComparableSort.java" />
-        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Comparing.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Count.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Match.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Min_Max.java" />
@@ -180,13 +304,32 @@
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ManTest.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter25/Student.java" />
         <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter26.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/WinEventListener.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/AWT.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/SWING.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/FlowLayoutSwing.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/GridLayoutSwing.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/CardLayoutSwing.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/BoxLayoutSwing.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/NullLayoutSwing.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/NestedLayoutSwing.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Event1.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/ActionListenerImpl.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Click2.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Click3.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/AppleOrangeTest.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/MouseEvent.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/DrawLineSwing.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Vertex.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/DrawPanel.java" />
+        <option value="$PROJECT_DIR$/JAVA_Conquer/src/chapter27/FreeLineSwing.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -196,8 +339,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,19 +351,28 @@
               <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JAVA_LAB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_Conquer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter27" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk-11.0.2/lib/mariadb-java-client-2.4.1.jar!/" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -245,13 +395,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ManTest">
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter25.CarTest" />
+  <component name="RunManager" selected="Application.FreeLineSwing">
+    <configuration name="AppleOrangeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter27.AppleOrangeTest" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter25.*" />
+          <option name="PATTERN" value="chapter27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,12 +409,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumValueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter25.EnumValueTest" />
+    <configuration name="Click3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter27.Click3" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter25.*" />
+          <option name="PATTERN" value="chapter27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +422,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaTypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter25.JavaTypeTest" />
+    <configuration name="DrawLineSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter27.DrawLineSwing" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter25.*" />
+          <option name="PATTERN" value="chapter27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +435,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter25.ManTest" />
+    <configuration name="FreeLineSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter27.FreeLineSwing" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter25.*" />
+          <option name="PATTERN" value="chapter27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,12 +448,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueofTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter25.ValueofTest" />
+    <configuration name="MouseEvent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter27.MouseEvent" />
       <module name="JAVA_Conquer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter25.*" />
+          <option name="PATTERN" value="chapter27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,11 +476,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ManTest" />
-        <item itemvalue="Application.CarTest" />
-        <item itemvalue="Application.JavaTypeTest" />
-        <item itemvalue="Application.EnumValueTest" />
-        <item itemvalue="Application.ValueofTest" />
+        <item itemvalue="Application.FreeLineSwing" />
+        <item itemvalue="Application.DrawLineSwing" />
+        <item itemvalue="Application.MouseEvent" />
+        <item itemvalue="Application.AppleOrangeTest" />
+        <item itemvalue="Application.Click3" />
       </list>
     </recent_temporary>
   </component>
@@ -421,6 +571,7 @@
       <workItem from="1559894599222" duration="931000" />
       <workItem from="1559895624477" duration="15057000" />
       <workItem from="1559975883601" duration="8959000" />
+      <workItem from="1560001820056" duration="4915000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1554958754027</created>
@@ -720,23 +871,24 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="313814000" />
+    <option name="totallyTimeSpent" value="318729000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.757953" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20174263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49100968" weight="0.3257143" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49061662" weight="0.32485875" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49865952" weight="0.32485875" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.59474415" weight="0.33857143" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.3997175" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.59316355" visible="true" weight="0.3361582" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49932975" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -744,7 +896,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.5938338" weight="0.32909605" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32909605" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.40525588" side_tool="true" visible="true" weight="0.33857143" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.40683645" side_tool="true" visible="true" weight="0.3361582" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -753,7 +905,7 @@
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info active="true" anchor="right" id="Database" order="8" visible="true" weight="0.19917013" />
+      <window_info anchor="right" id="Database" order="8" visible="true" weight="0.17962466" />
       <window_info anchor="right" id="SciView" order="9" />
       <window_info anchor="right" id="R Packages" order="10" />
       <window_info anchor="right" id="R Graphics" order="11" />
@@ -841,179 +993,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ArrayStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Generate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Iterate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/FileStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CountryDataTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/CountryStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Distinct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Limit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Skip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/LimitSkip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/TwoPower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Sorted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/ComparableSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Comparing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Count.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Match.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Min_Max.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Notebook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter24/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -1208,6 +1187,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter26.java" />
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/CarTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1241,17 +1221,231 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter25/ManTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter26/DumpCity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter26/MakeTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter26/UpdateTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/WinEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/AWT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/SWING.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="28" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/FlowLayoutSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/GridLayoutSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/CardLayoutSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/BoxLayoutSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/NestedLayoutSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/NullLayoutSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Event1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/ActionListenerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Click2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Click3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/AppleOrangeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/DrawLineSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/DrawPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/MouseEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#559#810#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVA_Conquer/src/chapter27/FreeLineSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="34" column="56" lean-forward="true" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#98#106#0" expanded="true" />
+            <element signature="e#1787#2188#0" expanded="true" />
+            <element signature="e#2187#2188#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1330,6 +1524,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>mariadb-java-client-2.4.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

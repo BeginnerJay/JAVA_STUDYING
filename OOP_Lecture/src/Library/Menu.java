@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 
 public class Menu {
 	final int STANDARD_DATE = 5; // 연체 기준 날짜 일수
-	public String today; // 오늘날짜 형식 : 2016.09.05
+	private String today; // 오늘날짜 형식 : 2016.09.05
 	public Scanner sc;
 	public User user;
 
@@ -38,7 +38,7 @@ public class Menu {
 	}
 
 	// 스캐너 받은걸 int형으로 바꺼서 내보냄 한글 특수문자 걸르기!!
-	public int checkInputScanner(String input, String print) {
+	private int checkInputScanner(String input, String print) {
 		if (isNumber(input)) { // 숫자만 있으면
 			int number = Integer.parseInt(input);
 			if (number < 0) {
